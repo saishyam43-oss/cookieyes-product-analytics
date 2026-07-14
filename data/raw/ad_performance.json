@@ -1,0 +1,8210 @@
+[
+  {
+    "campaign_id": "cmp_campaigna",
+    "campaign_name": "Campaign_A",
+    "date": "2025-06-01",
+    "impressions": 3172,
+    "clicks": 82,
+    "cost": 100.42,
+    "conversions": 3
+  },
+  {
+    "campaign_id": "cmp_campaignb",
+    "campaign_name": "Campaign_B",
+    "date": "2025-06-01",
+    "impressions": 904,
+    "clicks": 44,
+    "cost": 97.64,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignc",
+    "campaign_name": "Campaign_C",
+    "date": "2025-06-01",
+    "impressions": 1393,
+    "clicks": 20,
+    "cost": 55.32,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignd",
+    "campaign_name": "Campaign_D",
+    "date": "2025-06-01",
+    "impressions": 587,
+    "clicks": 29,
+    "cost": 61.62,
+    "conversions": 2
+  },
+  {
+    "campaign_id": "cmp_campaigne",
+    "campaign_name": "Campaign_E",
+    "date": "2025-06-01",
+    "impressions": 2510,
+    "clicks": 93,
+    "cost": 284.0,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignf",
+    "campaign_name": "Campaign_F",
+    "date": "2025-06-01",
+    "impressions": 2049,
+    "clicks": 61,
+    "cost": 207.2,
+    "conversions": 4
+  },
+  {
+    "campaign_id": "cmp_campaigna",
+    "campaign_name": "Campaign_A",
+    "date": "2025-06-02",
+    "impressions": 3344,
+    "clicks": 80,
+    "cost": 107.78,
+    "conversions": 3
+  },
+  {
+    "campaign_id": "cmp_campaignb",
+    "campaign_name": "Campaign_B",
+    "date": "2025-06-02",
+    "impressions": 480,
+    "clicks": 12,
+    "cost": 14.46,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignc",
+    "campaign_name": "Campaign_C",
+    "date": "2025-06-02",
+    "impressions": 2351,
+    "clicks": 38,
+    "cost": 44.0,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignd",
+    "campaign_name": "Campaign_D",
+    "date": "2025-06-02",
+    "impressions": 1066,
+    "clicks": 44,
+    "cost": 47.02,
+    "conversions": 3
+  },
+  {
+    "campaign_id": "cmp_campaigne",
+    "campaign_name": "Campaign_E",
+    "date": "2025-06-02",
+    "impressions": 3115,
+    "clicks": 102,
+    "cost": 295.3,
+    "conversions": 2
+  },
+  {
+    "campaign_id": "cmp_campaignf",
+    "campaign_name": "Campaign_F",
+    "date": "2025-06-02",
+    "impressions": 1220,
+    "clicks": 59,
+    "cost": 197.25,
+    "conversions": 3
+  },
+  {
+    "campaign_id": "cmp_campaigna",
+    "campaign_name": "Campaign_A",
+    "date": "2025-06-03",
+    "impressions": 3603,
+    "clicks": 61,
+    "cost": 76.15,
+    "conversions": 2
+  },
+  {
+    "campaign_id": "cmp_campaignb",
+    "campaign_name": "Campaign_B",
+    "date": "2025-06-03",
+    "impressions": 374,
+    "clicks": 8,
+    "cost": 20.9,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignc",
+    "campaign_name": "Campaign_C",
+    "date": "2025-06-03",
+    "impressions": 1891,
+    "clicks": 64,
+    "cost": 82.33,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignd",
+    "campaign_name": "Campaign_D",
+    "date": "2025-06-03",
+    "impressions": 2270,
+    "clicks": 27,
+    "cost": 53.2,
+    "conversions": 2
+  },
+  {
+    "campaign_id": "cmp_campaigne",
+    "campaign_name": "Campaign_E",
+    "date": "2025-06-03",
+    "impressions": 2666,
+    "clicks": 72,
+    "cost": 195.78,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignf",
+    "campaign_name": "Campaign_F",
+    "date": "2025-06-03",
+    "impressions": 1889,
+    "clicks": 84,
+    "cost": 184.83,
+    "conversions": 7
+  },
+  {
+    "campaign_id": "cmp_campaigna",
+    "campaign_name": "Campaign_A",
+    "date": "2025-06-04",
+    "impressions": 776,
+    "clicks": 27,
+    "cost": 62.73,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignb",
+    "campaign_name": "Campaign_B",
+    "date": "2025-06-04",
+    "impressions": 1435,
+    "clicks": 31,
+    "cost": 81.15,
+    "conversions": 3
+  },
+  {
+    "campaign_id": "cmp_campaignc",
+    "campaign_name": "Campaign_C",
+    "date": "2025-06-04",
+    "impressions": 2327,
+    "clicks": 24,
+    "cost": 29.65,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignd",
+    "campaign_name": "Campaign_D",
+    "date": "2025-06-04",
+    "impressions": 987,
+    "clicks": 41,
+    "cost": 84.82,
+    "conversions": 3
+  },
+  {
+    "campaign_id": "cmp_campaigne",
+    "campaign_name": "Campaign_E",
+    "date": "2025-06-04",
+    "impressions": 1390,
+    "clicks": 18,
+    "cost": 19.25,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignf",
+    "campaign_name": "Campaign_F",
+    "date": "2025-06-04",
+    "impressions": 1804,
+    "clicks": 54,
+    "cost": 51.75,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaigna",
+    "campaign_name": "Campaign_A",
+    "date": "2025-06-05",
+    "impressions": 1639,
+    "clicks": 28,
+    "cost": 85.08,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignb",
+    "campaign_name": "Campaign_B",
+    "date": "2025-06-05",
+    "impressions": 1009,
+    "clicks": 33,
+    "cost": 53.4,
+    "conversions": 2
+  },
+  {
+    "campaign_id": "cmp_campaignc",
+    "campaign_name": "Campaign_C",
+    "date": "2025-06-05",
+    "impressions": 1417,
+    "clicks": 45,
+    "cost": 160.74,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignd",
+    "campaign_name": "Campaign_D",
+    "date": "2025-06-05",
+    "impressions": 1053,
+    "clicks": 45,
+    "cost": 115.94,
+    "conversions": 3
+  },
+  {
+    "campaign_id": "cmp_campaigne",
+    "campaign_name": "Campaign_E",
+    "date": "2025-06-05",
+    "impressions": 2330,
+    "clicks": 34,
+    "cost": 56.27,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignf",
+    "campaign_name": "Campaign_F",
+    "date": "2025-06-05",
+    "impressions": 438,
+    "clicks": 11,
+    "cost": 32.24,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaigna",
+    "campaign_name": "Campaign_A",
+    "date": "2025-06-06",
+    "impressions": 2362,
+    "clicks": 117,
+    "cost": 114.68,
+    "conversions": 4
+  },
+  {
+    "campaign_id": "cmp_campaignb",
+    "campaign_name": "Campaign_B",
+    "date": "2025-06-06",
+    "impressions": 1171,
+    "clicks": 32,
+    "cost": 71.79,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignc",
+    "campaign_name": "Campaign_C",
+    "date": "2025-06-06",
+    "impressions": 1550,
+    "clicks": 45,
+    "cost": 86.75,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignd",
+    "campaign_name": "Campaign_D",
+    "date": "2025-06-06",
+    "impressions": 1231,
+    "clicks": 47,
+    "cost": 74.49,
+    "conversions": 2
+  },
+  {
+    "campaign_id": "cmp_campaigne",
+    "campaign_name": "Campaign_E",
+    "date": "2025-06-06",
+    "impressions": 3037,
+    "clicks": 137,
+    "cost": 127.97,
+    "conversions": 2
+  },
+  {
+    "campaign_id": "cmp_campaignf",
+    "campaign_name": "Campaign_F",
+    "date": "2025-06-06",
+    "impressions": 1014,
+    "clicks": 47,
+    "cost": 154.42,
+    "conversions": 3
+  },
+  {
+    "campaign_id": "cmp_campaigna",
+    "campaign_name": "Campaign_A",
+    "date": "2025-06-07",
+    "impressions": 3471,
+    "clicks": 84,
+    "cost": 170.24,
+    "conversions": 3
+  },
+  {
+    "campaign_id": "cmp_campaignb",
+    "campaign_name": "Campaign_B",
+    "date": "2025-06-07",
+    "impressions": 1212,
+    "clicks": 60,
+    "cost": 87.83,
+    "conversions": 3
+  },
+  {
+    "campaign_id": "cmp_campaignc",
+    "campaign_name": "Campaign_C",
+    "date": "2025-06-07",
+    "impressions": 1507,
+    "clicks": 52,
+    "cost": 125.01,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignd",
+    "campaign_name": "Campaign_D",
+    "date": "2025-06-07",
+    "impressions": 465,
+    "clicks": 12,
+    "cost": 25.95,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaigne",
+    "campaign_name": "Campaign_E",
+    "date": "2025-06-07",
+    "impressions": 1359,
+    "clicks": 40,
+    "cost": 90.59,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignf",
+    "campaign_name": "Campaign_F",
+    "date": "2025-06-07",
+    "impressions": 1006,
+    "clicks": 41,
+    "cost": 125.02,
+    "conversions": 2
+  },
+  {
+    "campaign_id": "cmp_campaigna",
+    "campaign_name": "Campaign_A",
+    "date": "2025-06-08",
+    "impressions": 3002,
+    "clicks": 53,
+    "cost": 59.98,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignb",
+    "campaign_name": "Campaign_B",
+    "date": "2025-06-08",
+    "impressions": 319,
+    "clicks": 14,
+    "cost": 36.45,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignc",
+    "campaign_name": "Campaign_C",
+    "date": "2025-06-08",
+    "impressions": 3423,
+    "clicks": 155,
+    "cost": 520.81,
+    "conversions": 4
+  },
+  {
+    "campaign_id": "cmp_campaignd",
+    "campaign_name": "Campaign_D",
+    "date": "2025-06-08",
+    "impressions": 1128,
+    "clicks": 33,
+    "cost": 63.34,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaigne",
+    "campaign_name": "Campaign_E",
+    "date": "2025-06-08",
+    "impressions": 3154,
+    "clicks": 117,
+    "cost": 112.48,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignf",
+    "campaign_name": "Campaign_F",
+    "date": "2025-06-08",
+    "impressions": 1695,
+    "clicks": 74,
+    "cost": 68.19,
+    "conversions": 4
+  },
+  {
+    "campaign_id": "cmp_campaigna",
+    "campaign_name": "Campaign_A",
+    "date": "2025-06-09",
+    "impressions": 4152,
+    "clicks": 79,
+    "cost": 117.05,
+    "conversions": 2
+  },
+  {
+    "campaign_id": "cmp_campaignb",
+    "campaign_name": "Campaign_B",
+    "date": "2025-06-09",
+    "impressions": 611,
+    "clicks": 12,
+    "cost": 31.92,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignc",
+    "campaign_name": "Campaign_C",
+    "date": "2025-06-09",
+    "impressions": 1525,
+    "clicks": 53,
+    "cost": 136.71,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignd",
+    "campaign_name": "Campaign_D",
+    "date": "2025-06-09",
+    "impressions": 2217,
+    "clicks": 89,
+    "cost": 166.55,
+    "conversions": 5
+  },
+  {
+    "campaign_id": "cmp_campaigne",
+    "campaign_name": "Campaign_E",
+    "date": "2025-06-09",
+    "impressions": 3227,
+    "clicks": 70,
+    "cost": 219.94,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignf",
+    "campaign_name": "Campaign_F",
+    "date": "2025-06-09",
+    "impressions": 1487,
+    "clicks": 21,
+    "cost": 74.44,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaigna",
+    "campaign_name": "Campaign_A",
+    "date": "2025-06-10",
+    "impressions": 2120,
+    "clicks": 87,
+    "cost": 163.88,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignb",
+    "campaign_name": "Campaign_B",
+    "date": "2025-06-10",
+    "impressions": 1294,
+    "clicks": 19,
+    "cost": 22.27,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignc",
+    "campaign_name": "Campaign_C",
+    "date": "2025-06-10",
+    "impressions": 1791,
+    "clicks": 81,
+    "cost": 262.46,
+    "conversions": 2
+  },
+  {
+    "campaign_id": "cmp_campaignd",
+    "campaign_name": "Campaign_D",
+    "date": "2025-06-10",
+    "impressions": 776,
+    "clicks": 26,
+    "cost": 23.89,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaigne",
+    "campaign_name": "Campaign_E",
+    "date": "2025-06-10",
+    "impressions": 2668,
+    "clicks": 116,
+    "cost": 199.54,
+    "conversions": 2
+  },
+  {
+    "campaign_id": "cmp_campaignf",
+    "campaign_name": "Campaign_F",
+    "date": "2025-06-10",
+    "impressions": 1512,
+    "clicks": 57,
+    "cost": 116.74,
+    "conversions": 3
+  },
+  {
+    "campaign_id": "cmp_campaigna",
+    "campaign_name": "Campaign_A",
+    "date": "2025-06-11",
+    "impressions": 763,
+    "clicks": 31,
+    "cost": 70.33,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignb",
+    "campaign_name": "Campaign_B",
+    "date": "2025-06-11",
+    "impressions": 434,
+    "clicks": 12,
+    "cost": 35.53,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignc",
+    "campaign_name": "Campaign_C",
+    "date": "2025-06-11",
+    "impressions": 1863,
+    "clicks": 72,
+    "cost": 82.1,
+    "conversions": 2
+  },
+  {
+    "campaign_id": "cmp_campaignd",
+    "campaign_name": "Campaign_D",
+    "date": "2025-06-11",
+    "impressions": 618,
+    "clicks": 25,
+    "cost": 45.2,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaigne",
+    "campaign_name": "Campaign_E",
+    "date": "2025-06-11",
+    "impressions": 997,
+    "clicks": 37,
+    "cost": 83.83,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignf",
+    "campaign_name": "Campaign_F",
+    "date": "2025-06-11",
+    "impressions": 434,
+    "clicks": 7,
+    "cost": 14.04,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaigna",
+    "campaign_name": "Campaign_A",
+    "date": "2025-06-12",
+    "impressions": 2445,
+    "clicks": 79,
+    "cost": 246.68,
+    "conversions": 2
+  },
+  {
+    "campaign_id": "cmp_campaignb",
+    "campaign_name": "Campaign_B",
+    "date": "2025-06-12",
+    "impressions": 826,
+    "clicks": 26,
+    "cost": 70.04,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignc",
+    "campaign_name": "Campaign_C",
+    "date": "2025-06-12",
+    "impressions": 2888,
+    "clicks": 83,
+    "cost": 83.6,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignd",
+    "campaign_name": "Campaign_D",
+    "date": "2025-06-12",
+    "impressions": 650,
+    "clicks": 10,
+    "cost": 25.21,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaigne",
+    "campaign_name": "Campaign_E",
+    "date": "2025-06-12",
+    "impressions": 3222,
+    "clicks": 36,
+    "cost": 34.11,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignf",
+    "campaign_name": "Campaign_F",
+    "date": "2025-06-12",
+    "impressions": 1359,
+    "clicks": 62,
+    "cost": 119.33,
+    "conversions": 3
+  },
+  {
+    "campaign_id": "cmp_campaigna",
+    "campaign_name": "Campaign_A",
+    "date": "2025-06-13",
+    "impressions": 2350,
+    "clicks": 73,
+    "cost": 203.93,
+    "conversions": 3
+  },
+  {
+    "campaign_id": "cmp_campaignb",
+    "campaign_name": "Campaign_B",
+    "date": "2025-06-13",
+    "impressions": 311,
+    "clicks": 14,
+    "cost": 26.72,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignc",
+    "campaign_name": "Campaign_C",
+    "date": "2025-06-13",
+    "impressions": 1192,
+    "clicks": 55,
+    "cost": 179.91,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignd",
+    "campaign_name": "Campaign_D",
+    "date": "2025-06-13",
+    "impressions": 645,
+    "clicks": 23,
+    "cost": 39.24,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaigne",
+    "campaign_name": "Campaign_E",
+    "date": "2025-06-13",
+    "impressions": 2523,
+    "clicks": 43,
+    "cost": 151.15,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignf",
+    "campaign_name": "Campaign_F",
+    "date": "2025-06-13",
+    "impressions": 386,
+    "clicks": 5,
+    "cost": 4.92,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaigna",
+    "campaign_name": "Campaign_A",
+    "date": "2025-06-14",
+    "impressions": 3226,
+    "clicks": 142,
+    "cost": 394.09,
+    "conversions": 4
+  },
+  {
+    "campaign_id": "cmp_campaignb",
+    "campaign_name": "Campaign_B",
+    "date": "2025-06-14",
+    "impressions": 521,
+    "clicks": 13,
+    "cost": 16.66,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignc",
+    "campaign_name": "Campaign_C",
+    "date": "2025-06-14",
+    "impressions": 2897,
+    "clicks": 53,
+    "cost": 45.49,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignd",
+    "campaign_name": "Campaign_D",
+    "date": "2025-06-14",
+    "impressions": 2315,
+    "clicks": 37,
+    "cost": 31.45,
+    "conversions": 2
+  },
+  {
+    "campaign_id": "cmp_campaigne",
+    "campaign_name": "Campaign_E",
+    "date": "2025-06-14",
+    "impressions": 2290,
+    "clicks": 80,
+    "cost": 243.93,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignf",
+    "campaign_name": "Campaign_F",
+    "date": "2025-06-14",
+    "impressions": 849,
+    "clicks": 36,
+    "cost": 34.71,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaigna",
+    "campaign_name": "Campaign_A",
+    "date": "2025-06-15",
+    "impressions": 826,
+    "clicks": 31,
+    "cost": 95.73,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignb",
+    "campaign_name": "Campaign_B",
+    "date": "2025-06-15",
+    "impressions": 1255,
+    "clicks": 41,
+    "cost": 118.57,
+    "conversions": 4
+  },
+  {
+    "campaign_id": "cmp_campaignc",
+    "campaign_name": "Campaign_C",
+    "date": "2025-06-15",
+    "impressions": 3548,
+    "clicks": 52,
+    "cost": 111.39,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignd",
+    "campaign_name": "Campaign_D",
+    "date": "2025-06-15",
+    "impressions": 2622,
+    "clicks": 43,
+    "cost": 128.81,
+    "conversions": 3
+  },
+  {
+    "campaign_id": "cmp_campaigne",
+    "campaign_name": "Campaign_E",
+    "date": "2025-06-15",
+    "impressions": 998,
+    "clicks": 23,
+    "cost": 26.96,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignf",
+    "campaign_name": "Campaign_F",
+    "date": "2025-06-15",
+    "impressions": 838,
+    "clicks": 11,
+    "cost": 9.04,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaigna",
+    "campaign_name": "Campaign_A",
+    "date": "2025-06-16",
+    "impressions": 3830,
+    "clicks": 73,
+    "cost": 170.52,
+    "conversions": 3
+  },
+  {
+    "campaign_id": "cmp_campaignb",
+    "campaign_name": "Campaign_B",
+    "date": "2025-06-16",
+    "impressions": 685,
+    "clicks": 10,
+    "cost": 35.24,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignc",
+    "campaign_name": "Campaign_C",
+    "date": "2025-06-16",
+    "impressions": 1067,
+    "clicks": 26,
+    "cost": 48.8,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignd",
+    "campaign_name": "Campaign_D",
+    "date": "2025-06-16",
+    "impressions": 2651,
+    "clicks": 117,
+    "cost": 195.25,
+    "conversions": 5
+  },
+  {
+    "campaign_id": "cmp_campaigne",
+    "campaign_name": "Campaign_E",
+    "date": "2025-06-16",
+    "impressions": 2920,
+    "clicks": 85,
+    "cost": 144.46,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignf",
+    "campaign_name": "Campaign_F",
+    "date": "2025-06-16",
+    "impressions": 557,
+    "clicks": 14,
+    "cost": 45.44,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaigna",
+    "campaign_name": "Campaign_A",
+    "date": "2025-06-17",
+    "impressions": 4045,
+    "clicks": 181,
+    "cost": 453.27,
+    "conversions": 6
+  },
+  {
+    "campaign_id": "cmp_campaignb",
+    "campaign_name": "Campaign_B",
+    "date": "2025-06-17",
+    "impressions": 900,
+    "clicks": 44,
+    "cost": 129.16,
+    "conversions": 2
+  },
+  {
+    "campaign_id": "cmp_campaignc",
+    "campaign_name": "Campaign_C",
+    "date": "2025-06-17",
+    "impressions": 3223,
+    "clicks": 46,
+    "cost": 40.35,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignd",
+    "campaign_name": "Campaign_D",
+    "date": "2025-06-17",
+    "impressions": 760,
+    "clicks": 12,
+    "cost": 12.74,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaigne",
+    "campaign_name": "Campaign_E",
+    "date": "2025-06-17",
+    "impressions": 2659,
+    "clicks": 103,
+    "cost": 283.62,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignf",
+    "campaign_name": "Campaign_F",
+    "date": "2025-06-17",
+    "impressions": 1826,
+    "clicks": 61,
+    "cost": 187.91,
+    "conversions": 4
+  },
+  {
+    "campaign_id": "cmp_campaigna",
+    "campaign_name": "Campaign_A",
+    "date": "2025-06-18",
+    "impressions": 3594,
+    "clicks": 158,
+    "cost": 367.28,
+    "conversions": 6
+  },
+  {
+    "campaign_id": "cmp_campaignb",
+    "campaign_name": "Campaign_B",
+    "date": "2025-06-18",
+    "impressions": 1096,
+    "clicks": 32,
+    "cost": 56.11,
+    "conversions": 3
+  },
+  {
+    "campaign_id": "cmp_campaignc",
+    "campaign_name": "Campaign_C",
+    "date": "2025-06-18",
+    "impressions": 2526,
+    "clicks": 69,
+    "cost": 229.45,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignd",
+    "campaign_name": "Campaign_D",
+    "date": "2025-06-18",
+    "impressions": 2140,
+    "clicks": 104,
+    "cost": 185.08,
+    "conversions": 5
+  },
+  {
+    "campaign_id": "cmp_campaigne",
+    "campaign_name": "Campaign_E",
+    "date": "2025-06-18",
+    "impressions": 1299,
+    "clicks": 15,
+    "cost": 38.72,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignf",
+    "campaign_name": "Campaign_F",
+    "date": "2025-06-18",
+    "impressions": 2007,
+    "clicks": 48,
+    "cost": 139.9,
+    "conversions": 2
+  },
+  {
+    "campaign_id": "cmp_campaigna",
+    "campaign_name": "Campaign_A",
+    "date": "2025-06-19",
+    "impressions": 1584,
+    "clicks": 60,
+    "cost": 126.97,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignb",
+    "campaign_name": "Campaign_B",
+    "date": "2025-06-19",
+    "impressions": 1692,
+    "clicks": 78,
+    "cost": 118.67,
+    "conversions": 6
+  },
+  {
+    "campaign_id": "cmp_campaignc",
+    "campaign_name": "Campaign_C",
+    "date": "2025-06-19",
+    "impressions": 1946,
+    "clicks": 94,
+    "cost": 237.06,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignd",
+    "campaign_name": "Campaign_D",
+    "date": "2025-06-19",
+    "impressions": 1948,
+    "clicks": 33,
+    "cost": 57.72,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaigne",
+    "campaign_name": "Campaign_E",
+    "date": "2025-06-19",
+    "impressions": 1935,
+    "clicks": 52,
+    "cost": 73.16,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignf",
+    "campaign_name": "Campaign_F",
+    "date": "2025-06-19",
+    "impressions": 1754,
+    "clicks": 36,
+    "cost": 52.99,
+    "conversions": 2
+  },
+  {
+    "campaign_id": "cmp_campaigna",
+    "campaign_name": "Campaign_A",
+    "date": "2025-06-20",
+    "impressions": 4184,
+    "clicks": 178,
+    "cost": 511.03,
+    "conversions": 8
+  },
+  {
+    "campaign_id": "cmp_campaignb",
+    "campaign_name": "Campaign_B",
+    "date": "2025-06-20",
+    "impressions": 887,
+    "clicks": 36,
+    "cost": 97.76,
+    "conversions": 2
+  },
+  {
+    "campaign_id": "cmp_campaignc",
+    "campaign_name": "Campaign_C",
+    "date": "2025-06-20",
+    "impressions": 2301,
+    "clicks": 93,
+    "cost": 234.0,
+    "conversions": 2
+  },
+  {
+    "campaign_id": "cmp_campaignd",
+    "campaign_name": "Campaign_D",
+    "date": "2025-06-20",
+    "impressions": 561,
+    "clicks": 21,
+    "cost": 22.25,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaigne",
+    "campaign_name": "Campaign_E",
+    "date": "2025-06-20",
+    "impressions": 2632,
+    "clicks": 114,
+    "cost": 138.42,
+    "conversions": 2
+  },
+  {
+    "campaign_id": "cmp_campaignf",
+    "campaign_name": "Campaign_F",
+    "date": "2025-06-20",
+    "impressions": 1125,
+    "clicks": 19,
+    "cost": 34.21,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaigna",
+    "campaign_name": "Campaign_A",
+    "date": "2025-06-21",
+    "impressions": 2443,
+    "clicks": 29,
+    "cost": 46.08,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignb",
+    "campaign_name": "Campaign_B",
+    "date": "2025-06-21",
+    "impressions": 546,
+    "clicks": 15,
+    "cost": 51.7,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignc",
+    "campaign_name": "Campaign_C",
+    "date": "2025-06-21",
+    "impressions": 1404,
+    "clicks": 63,
+    "cost": 171.75,
+    "conversions": 2
+  },
+  {
+    "campaign_id": "cmp_campaignd",
+    "campaign_name": "Campaign_D",
+    "date": "2025-06-21",
+    "impressions": 1846,
+    "clicks": 56,
+    "cost": 107.71,
+    "conversions": 4
+  },
+  {
+    "campaign_id": "cmp_campaigne",
+    "campaign_name": "Campaign_E",
+    "date": "2025-06-21",
+    "impressions": 1234,
+    "clicks": 16,
+    "cost": 26.15,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignf",
+    "campaign_name": "Campaign_F",
+    "date": "2025-06-21",
+    "impressions": 860,
+    "clicks": 35,
+    "cost": 61.38,
+    "conversions": 2
+  },
+  {
+    "campaign_id": "cmp_campaigna",
+    "campaign_name": "Campaign_A",
+    "date": "2025-06-22",
+    "impressions": 3994,
+    "clicks": 150,
+    "cost": 171.74,
+    "conversions": 4
+  },
+  {
+    "campaign_id": "cmp_campaignb",
+    "campaign_name": "Campaign_B",
+    "date": "2025-06-22",
+    "impressions": 746,
+    "clicks": 23,
+    "cost": 73.57,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignc",
+    "campaign_name": "Campaign_C",
+    "date": "2025-06-22",
+    "impressions": 1221,
+    "clicks": 32,
+    "cost": 59.34,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignd",
+    "campaign_name": "Campaign_D",
+    "date": "2025-06-22",
+    "impressions": 789,
+    "clicks": 38,
+    "cost": 39.14,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaigne",
+    "campaign_name": "Campaign_E",
+    "date": "2025-06-22",
+    "impressions": 1022,
+    "clicks": 44,
+    "cost": 137.33,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignf",
+    "campaign_name": "Campaign_F",
+    "date": "2025-06-22",
+    "impressions": 2110,
+    "clicks": 100,
+    "cost": 314.19,
+    "conversions": 7
+  },
+  {
+    "campaign_id": "cmp_campaigna",
+    "campaign_name": "Campaign_A",
+    "date": "2025-06-23",
+    "impressions": 3904,
+    "clicks": 91,
+    "cost": 284.84,
+    "conversions": 2
+  },
+  {
+    "campaign_id": "cmp_campaignb",
+    "campaign_name": "Campaign_B",
+    "date": "2025-06-23",
+    "impressions": 1290,
+    "clicks": 36,
+    "cost": 83.49,
+    "conversions": 2
+  },
+  {
+    "campaign_id": "cmp_campaignc",
+    "campaign_name": "Campaign_C",
+    "date": "2025-06-23",
+    "impressions": 2518,
+    "clicks": 41,
+    "cost": 119.24,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignd",
+    "campaign_name": "Campaign_D",
+    "date": "2025-06-23",
+    "impressions": 2629,
+    "clicks": 129,
+    "cost": 194.51,
+    "conversions": 6
+  },
+  {
+    "campaign_id": "cmp_campaigne",
+    "campaign_name": "Campaign_E",
+    "date": "2025-06-23",
+    "impressions": 2606,
+    "clicks": 53,
+    "cost": 73.15,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignf",
+    "campaign_name": "Campaign_F",
+    "date": "2025-06-23",
+    "impressions": 1859,
+    "clicks": 40,
+    "cost": 86.78,
+    "conversions": 3
+  },
+  {
+    "campaign_id": "cmp_campaigna",
+    "campaign_name": "Campaign_A",
+    "date": "2025-06-24",
+    "impressions": 1325,
+    "clicks": 56,
+    "cost": 124.92,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignb",
+    "campaign_name": "Campaign_B",
+    "date": "2025-06-24",
+    "impressions": 574,
+    "clicks": 20,
+    "cost": 29.83,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignc",
+    "campaign_name": "Campaign_C",
+    "date": "2025-06-24",
+    "impressions": 1321,
+    "clicks": 58,
+    "cost": 139.03,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignd",
+    "campaign_name": "Campaign_D",
+    "date": "2025-06-24",
+    "impressions": 749,
+    "clicks": 21,
+    "cost": 26.47,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaigne",
+    "campaign_name": "Campaign_E",
+    "date": "2025-06-24",
+    "impressions": 1333,
+    "clicks": 47,
+    "cost": 69.53,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignf",
+    "campaign_name": "Campaign_F",
+    "date": "2025-06-24",
+    "impressions": 1524,
+    "clicks": 70,
+    "cost": 183.89,
+    "conversions": 5
+  },
+  {
+    "campaign_id": "cmp_campaigna",
+    "campaign_name": "Campaign_A",
+    "date": "2025-06-25",
+    "impressions": 4395,
+    "clicks": 168,
+    "cost": 279.2,
+    "conversions": 3
+  },
+  {
+    "campaign_id": "cmp_campaignb",
+    "campaign_name": "Campaign_B",
+    "date": "2025-06-25",
+    "impressions": 782,
+    "clicks": 20,
+    "cost": 24.23,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignc",
+    "campaign_name": "Campaign_C",
+    "date": "2025-06-25",
+    "impressions": 1931,
+    "clicks": 87,
+    "cost": 188.95,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignd",
+    "campaign_name": "Campaign_D",
+    "date": "2025-06-25",
+    "impressions": 1251,
+    "clicks": 21,
+    "cost": 18.77,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaigne",
+    "campaign_name": "Campaign_E",
+    "date": "2025-06-25",
+    "impressions": 2838,
+    "clicks": 111,
+    "cost": 350.76,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignf",
+    "campaign_name": "Campaign_F",
+    "date": "2025-06-25",
+    "impressions": 479,
+    "clicks": 21,
+    "cost": 29.62,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaigna",
+    "campaign_name": "Campaign_A",
+    "date": "2025-06-26",
+    "impressions": 3367,
+    "clicks": 168,
+    "cost": 372.87,
+    "conversions": 3
+  },
+  {
+    "campaign_id": "cmp_campaignb",
+    "campaign_name": "Campaign_B",
+    "date": "2025-06-26",
+    "impressions": 1633,
+    "clicks": 17,
+    "cost": 56.36,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignc",
+    "campaign_name": "Campaign_C",
+    "date": "2025-06-26",
+    "impressions": 2363,
+    "clicks": 42,
+    "cost": 49.73,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignd",
+    "campaign_name": "Campaign_D",
+    "date": "2025-06-26",
+    "impressions": 1350,
+    "clicks": 61,
+    "cost": 184.77,
+    "conversions": 4
+  },
+  {
+    "campaign_id": "cmp_campaigne",
+    "campaign_name": "Campaign_E",
+    "date": "2025-06-26",
+    "impressions": 576,
+    "clicks": 11,
+    "cost": 37.12,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignf",
+    "campaign_name": "Campaign_F",
+    "date": "2025-06-26",
+    "impressions": 1697,
+    "clicks": 41,
+    "cost": 91.95,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaigna",
+    "campaign_name": "Campaign_A",
+    "date": "2025-06-27",
+    "impressions": 3733,
+    "clicks": 65,
+    "cost": 222.38,
+    "conversions": 2
+  },
+  {
+    "campaign_id": "cmp_campaignb",
+    "campaign_name": "Campaign_B",
+    "date": "2025-06-27",
+    "impressions": 571,
+    "clicks": 19,
+    "cost": 24.42,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignc",
+    "campaign_name": "Campaign_C",
+    "date": "2025-06-27",
+    "impressions": 2510,
+    "clicks": 28,
+    "cost": 65.16,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignd",
+    "campaign_name": "Campaign_D",
+    "date": "2025-06-27",
+    "impressions": 1667,
+    "clicks": 59,
+    "cost": 107.58,
+    "conversions": 4
+  },
+  {
+    "campaign_id": "cmp_campaigne",
+    "campaign_name": "Campaign_E",
+    "date": "2025-06-27",
+    "impressions": 1320,
+    "clicks": 13,
+    "cost": 35.74,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignf",
+    "campaign_name": "Campaign_F",
+    "date": "2025-06-27",
+    "impressions": 689,
+    "clicks": 8,
+    "cost": 25.13,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaigna",
+    "campaign_name": "Campaign_A",
+    "date": "2025-06-28",
+    "impressions": 2520,
+    "clicks": 112,
+    "cost": 181.12,
+    "conversions": 2
+  },
+  {
+    "campaign_id": "cmp_campaignb",
+    "campaign_name": "Campaign_B",
+    "date": "2025-06-28",
+    "impressions": 579,
+    "clicks": 22,
+    "cost": 50.33,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignc",
+    "campaign_name": "Campaign_C",
+    "date": "2025-06-28",
+    "impressions": 3354,
+    "clicks": 133,
+    "cost": 312.39,
+    "conversions": 3
+  },
+  {
+    "campaign_id": "cmp_campaignd",
+    "campaign_name": "Campaign_D",
+    "date": "2025-06-28",
+    "impressions": 1715,
+    "clicks": 41,
+    "cost": 41.96,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaigne",
+    "campaign_name": "Campaign_E",
+    "date": "2025-06-28",
+    "impressions": 2063,
+    "clicks": 63,
+    "cost": 98.12,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignf",
+    "campaign_name": "Campaign_F",
+    "date": "2025-06-28",
+    "impressions": 634,
+    "clicks": 25,
+    "cost": 61.4,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaigna",
+    "campaign_name": "Campaign_A",
+    "date": "2025-06-29",
+    "impressions": 884,
+    "clicks": 18,
+    "cost": 31.79,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignb",
+    "campaign_name": "Campaign_B",
+    "date": "2025-06-29",
+    "impressions": 1702,
+    "clicks": 77,
+    "cost": 79.1,
+    "conversions": 5
+  },
+  {
+    "campaign_id": "cmp_campaignc",
+    "campaign_name": "Campaign_C",
+    "date": "2025-06-29",
+    "impressions": 1315,
+    "clicks": 47,
+    "cost": 133.56,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignd",
+    "campaign_name": "Campaign_D",
+    "date": "2025-06-29",
+    "impressions": 1056,
+    "clicks": 16,
+    "cost": 16.06,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaigne",
+    "campaign_name": "Campaign_E",
+    "date": "2025-06-29",
+    "impressions": 2430,
+    "clicks": 44,
+    "cost": 86.24,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignf",
+    "campaign_name": "Campaign_F",
+    "date": "2025-06-29",
+    "impressions": 1903,
+    "clicks": 54,
+    "cost": 107.47,
+    "conversions": 2
+  },
+  {
+    "campaign_id": "cmp_campaigna",
+    "campaign_name": "Campaign_A",
+    "date": "2025-06-30",
+    "impressions": 4224,
+    "clicks": 203,
+    "cost": 620.17,
+    "conversions": 4
+  },
+  {
+    "campaign_id": "cmp_campaignb",
+    "campaign_name": "Campaign_B",
+    "date": "2025-06-30",
+    "impressions": 975,
+    "clicks": 40,
+    "cost": 62.11,
+    "conversions": 3
+  },
+  {
+    "campaign_id": "cmp_campaignc",
+    "campaign_name": "Campaign_C",
+    "date": "2025-06-30",
+    "impressions": 3027,
+    "clicks": 62,
+    "cost": 216.51,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignd",
+    "campaign_name": "Campaign_D",
+    "date": "2025-06-30",
+    "impressions": 2472,
+    "clicks": 72,
+    "cost": 78.38,
+    "conversions": 4
+  },
+  {
+    "campaign_id": "cmp_campaigne",
+    "campaign_name": "Campaign_E",
+    "date": "2025-06-30",
+    "impressions": 2415,
+    "clicks": 97,
+    "cost": 248.51,
+    "conversions": 2
+  },
+  {
+    "campaign_id": "cmp_campaignf",
+    "campaign_name": "Campaign_F",
+    "date": "2025-06-30",
+    "impressions": 1697,
+    "clicks": 58,
+    "cost": 110.43,
+    "conversions": 2
+  },
+  {
+    "campaign_id": "cmp_campaigna",
+    "campaign_name": "Campaign_A",
+    "date": "2025-07-01",
+    "impressions": 3699,
+    "clicks": 95,
+    "cost": 130.26,
+    "conversions": 3
+  },
+  {
+    "campaign_id": "cmp_campaignb",
+    "campaign_name": "Campaign_B",
+    "date": "2025-07-01",
+    "impressions": 1665,
+    "clicks": 70,
+    "cost": 90.34,
+    "conversions": 2
+  },
+  {
+    "campaign_id": "cmp_campaignc",
+    "campaign_name": "Campaign_C",
+    "date": "2025-07-01",
+    "impressions": 2689,
+    "clicks": 114,
+    "cost": 274.76,
+    "conversions": 2
+  },
+  {
+    "campaign_id": "cmp_campaignd",
+    "campaign_name": "Campaign_D",
+    "date": "2025-07-01",
+    "impressions": 1851,
+    "clicks": 73,
+    "cost": 164.76,
+    "conversions": 2
+  },
+  {
+    "campaign_id": "cmp_campaigne",
+    "campaign_name": "Campaign_E",
+    "date": "2025-07-01",
+    "impressions": 837,
+    "clicks": 31,
+    "cost": 61.87,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignf",
+    "campaign_name": "Campaign_F",
+    "date": "2025-07-01",
+    "impressions": 1854,
+    "clicks": 56,
+    "cost": 42.29,
+    "conversions": 3
+  },
+  {
+    "campaign_id": "cmp_campaigna",
+    "campaign_name": "Campaign_A",
+    "date": "2025-07-02",
+    "impressions": 2414,
+    "clicks": 113,
+    "cost": 210.32,
+    "conversions": 4
+  },
+  {
+    "campaign_id": "cmp_campaignb",
+    "campaign_name": "Campaign_B",
+    "date": "2025-07-02",
+    "impressions": 552,
+    "clicks": 18,
+    "cost": 51.6,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignc",
+    "campaign_name": "Campaign_C",
+    "date": "2025-07-02",
+    "impressions": 3457,
+    "clicks": 84,
+    "cost": 133.06,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignd",
+    "campaign_name": "Campaign_D",
+    "date": "2025-07-02",
+    "impressions": 2172,
+    "clicks": 85,
+    "cost": 115.24,
+    "conversions": 5
+  },
+  {
+    "campaign_id": "cmp_campaigne",
+    "campaign_name": "Campaign_E",
+    "date": "2025-07-02",
+    "impressions": 2055,
+    "clicks": 56,
+    "cost": 175.15,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignf",
+    "campaign_name": "Campaign_F",
+    "date": "2025-07-02",
+    "impressions": 496,
+    "clicks": 15,
+    "cost": 35.68,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaigna",
+    "campaign_name": "Campaign_A",
+    "date": "2025-07-03",
+    "impressions": 1826,
+    "clicks": 30,
+    "cost": 80.48,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignb",
+    "campaign_name": "Campaign_B",
+    "date": "2025-07-03",
+    "impressions": 736,
+    "clicks": 27,
+    "cost": 57.53,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignc",
+    "campaign_name": "Campaign_C",
+    "date": "2025-07-03",
+    "impressions": 1788,
+    "clicks": 70,
+    "cost": 208.26,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignd",
+    "campaign_name": "Campaign_D",
+    "date": "2025-07-03",
+    "impressions": 2348,
+    "clicks": 39,
+    "cost": 34.65,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaigne",
+    "campaign_name": "Campaign_E",
+    "date": "2025-07-03",
+    "impressions": 2942,
+    "clicks": 65,
+    "cost": 165.01,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignf",
+    "campaign_name": "Campaign_F",
+    "date": "2025-07-03",
+    "impressions": 425,
+    "clicks": 12,
+    "cost": 10.61,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaigna",
+    "campaign_name": "Campaign_A",
+    "date": "2025-07-04",
+    "impressions": 3841,
+    "clicks": 128,
+    "cost": 352.41,
+    "conversions": 2
+  },
+  {
+    "campaign_id": "cmp_campaignb",
+    "campaign_name": "Campaign_B",
+    "date": "2025-07-04",
+    "impressions": 1193,
+    "clicks": 20,
+    "cost": 34.01,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignc",
+    "campaign_name": "Campaign_C",
+    "date": "2025-07-04",
+    "impressions": 2109,
+    "clicks": 75,
+    "cost": 182.83,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignd",
+    "campaign_name": "Campaign_D",
+    "date": "2025-07-04",
+    "impressions": 2627,
+    "clicks": 116,
+    "cost": 133.31,
+    "conversions": 6
+  },
+  {
+    "campaign_id": "cmp_campaigne",
+    "campaign_name": "Campaign_E",
+    "date": "2025-07-04",
+    "impressions": 1620,
+    "clicks": 76,
+    "cost": 161.15,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignf",
+    "campaign_name": "Campaign_F",
+    "date": "2025-07-04",
+    "impressions": 539,
+    "clicks": 11,
+    "cost": 24.3,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaigna",
+    "campaign_name": "Campaign_A",
+    "date": "2025-07-05",
+    "impressions": 2074,
+    "clicks": 38,
+    "cost": 136.86,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignb",
+    "campaign_name": "Campaign_B",
+    "date": "2025-07-05",
+    "impressions": 1563,
+    "clicks": 28,
+    "cost": 70.3,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignc",
+    "campaign_name": "Campaign_C",
+    "date": "2025-07-05",
+    "impressions": 1235,
+    "clicks": 26,
+    "cost": 66.19,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignd",
+    "campaign_name": "Campaign_D",
+    "date": "2025-07-05",
+    "impressions": 2159,
+    "clicks": 67,
+    "cost": 62.79,
+    "conversions": 3
+  },
+  {
+    "campaign_id": "cmp_campaigne",
+    "campaign_name": "Campaign_E",
+    "date": "2025-07-05",
+    "impressions": 1660,
+    "clicks": 40,
+    "cost": 127.44,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignf",
+    "campaign_name": "Campaign_F",
+    "date": "2025-07-05",
+    "impressions": 526,
+    "clicks": 24,
+    "cost": 27.75,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaigna",
+    "campaign_name": "Campaign_A",
+    "date": "2025-07-06",
+    "impressions": 3950,
+    "clicks": 169,
+    "cost": 600.8,
+    "conversions": 4
+  },
+  {
+    "campaign_id": "cmp_campaignb",
+    "campaign_name": "Campaign_B",
+    "date": "2025-07-06",
+    "impressions": 670,
+    "clicks": 19,
+    "cost": 19.56,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignc",
+    "campaign_name": "Campaign_C",
+    "date": "2025-07-06",
+    "impressions": 3240,
+    "clicks": 61,
+    "cost": 51.31,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignd",
+    "campaign_name": "Campaign_D",
+    "date": "2025-07-06",
+    "impressions": 1304,
+    "clicks": 59,
+    "cost": 146.74,
+    "conversions": 2
+  },
+  {
+    "campaign_id": "cmp_campaigne",
+    "campaign_name": "Campaign_E",
+    "date": "2025-07-06",
+    "impressions": 2280,
+    "clicks": 106,
+    "cost": 236.81,
+    "conversions": 2
+  },
+  {
+    "campaign_id": "cmp_campaignf",
+    "campaign_name": "Campaign_F",
+    "date": "2025-07-06",
+    "impressions": 1603,
+    "clicks": 54,
+    "cost": 53.32,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaigna",
+    "campaign_name": "Campaign_A",
+    "date": "2025-07-07",
+    "impressions": 3529,
+    "clicks": 161,
+    "cost": 173.55,
+    "conversions": 3
+  },
+  {
+    "campaign_id": "cmp_campaignb",
+    "campaign_name": "Campaign_B",
+    "date": "2025-07-07",
+    "impressions": 678,
+    "clicks": 24,
+    "cost": 23.45,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignc",
+    "campaign_name": "Campaign_C",
+    "date": "2025-07-07",
+    "impressions": 2747,
+    "clicks": 84,
+    "cost": 175.57,
+    "conversions": 2
+  },
+  {
+    "campaign_id": "cmp_campaignd",
+    "campaign_name": "Campaign_D",
+    "date": "2025-07-07",
+    "impressions": 974,
+    "clicks": 37,
+    "cost": 66.79,
+    "conversions": 2
+  },
+  {
+    "campaign_id": "cmp_campaigne",
+    "campaign_name": "Campaign_E",
+    "date": "2025-07-07",
+    "impressions": 2851,
+    "clicks": 48,
+    "cost": 128.4,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignf",
+    "campaign_name": "Campaign_F",
+    "date": "2025-07-07",
+    "impressions": 888,
+    "clicks": 26,
+    "cost": 96.71,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaigna",
+    "campaign_name": "Campaign_A",
+    "date": "2025-07-08",
+    "impressions": 1571,
+    "clicks": 65,
+    "cost": 106.26,
+    "conversions": 2
+  },
+  {
+    "campaign_id": "cmp_campaignb",
+    "campaign_name": "Campaign_B",
+    "date": "2025-07-08",
+    "impressions": 1475,
+    "clicks": 24,
+    "cost": 68.4,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignc",
+    "campaign_name": "Campaign_C",
+    "date": "2025-07-08",
+    "impressions": 2265,
+    "clicks": 60,
+    "cost": 80.79,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignd",
+    "campaign_name": "Campaign_D",
+    "date": "2025-07-08",
+    "impressions": 1369,
+    "clicks": 43,
+    "cost": 147.23,
+    "conversions": 2
+  },
+  {
+    "campaign_id": "cmp_campaigne",
+    "campaign_name": "Campaign_E",
+    "date": "2025-07-08",
+    "impressions": 689,
+    "clicks": 13,
+    "cost": 41.84,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignf",
+    "campaign_name": "Campaign_F",
+    "date": "2025-07-08",
+    "impressions": 647,
+    "clicks": 22,
+    "cost": 59.3,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaigna",
+    "campaign_name": "Campaign_A",
+    "date": "2025-07-09",
+    "impressions": 2006,
+    "clicks": 88,
+    "cost": 224.16,
+    "conversions": 2
+  },
+  {
+    "campaign_id": "cmp_campaignb",
+    "campaign_name": "Campaign_B",
+    "date": "2025-07-09",
+    "impressions": 426,
+    "clicks": 16,
+    "cost": 18.25,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignc",
+    "campaign_name": "Campain_C",
+    "date": "2025-07-09",
+    "impressions": 668,
+    "clicks": 18,
+    "cost": 18.54,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignd",
+    "campaign_name": "Campaign_D",
+    "date": "2025-07-09",
+    "impressions": 581,
+    "clicks": 12,
+    "cost": 8.83,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaigne",
+    "campaign_name": "Campaign_E",
+    "date": "2025-07-09",
+    "impressions": 1042,
+    "clicks": 22,
+    "cost": 54.91,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignf",
+    "campaign_name": "Campaign_F",
+    "date": "2025-07-09",
+    "impressions": 1157,
+    "clicks": 47,
+    "cost": 109.51,
+    "conversions": 3
+  },
+  {
+    "campaign_id": "cmp_campaigna",
+    "campaign_name": "Campaign_A",
+    "date": "2025-07-10",
+    "impressions": 2835,
+    "clicks": 35,
+    "cost": 107.14,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignb",
+    "campaign_name": "Campaign_B",
+    "date": "2025-07-10",
+    "impressions": 1790,
+    "clicks": 53,
+    "cost": 51.84,
+    "conversions": 3
+  },
+  {
+    "campaign_id": "cmp_campaignc",
+    "campaign_name": "Campaign_C",
+    "date": "2025-07-10",
+    "impressions": 2127,
+    "clicks": 54,
+    "cost": 162.26,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignd",
+    "campaign_name": "Campaign_D",
+    "date": "2025-07-10",
+    "impressions": 2447,
+    "clicks": 93,
+    "cost": 169.78,
+    "conversions": 6
+  },
+  {
+    "campaign_id": "cmp_campaigne",
+    "campaign_name": "Campaign_E",
+    "date": "2025-07-10",
+    "impressions": 3185,
+    "clicks": 125,
+    "cost": 382.45,
+    "conversions": 3
+  },
+  {
+    "campaign_id": "cmp_campaignf",
+    "campaign_name": "Campaign_F",
+    "date": "2025-07-10",
+    "impressions": 1132,
+    "clicks": 19,
+    "cost": 17.61,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaigna",
+    "campaign_name": "Campaign_A",
+    "date": "2025-07-11",
+    "impressions": 3111,
+    "clicks": 117,
+    "cost": 276.29,
+    "conversions": 2
+  },
+  {
+    "campaign_id": "cmp_campaignb",
+    "campaign_name": "Campaign_B",
+    "date": "2025-07-11",
+    "impressions": 621,
+    "clicks": 9,
+    "cost": 22.96,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignc",
+    "campaign_name": "Campaign_C",
+    "date": "2025-07-11",
+    "impressions": 1520,
+    "clicks": 16,
+    "cost": 22.14,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignd",
+    "campaign_name": "Campaign_D",
+    "date": "2025-07-11",
+    "impressions": 1633,
+    "clicks": 73,
+    "cost": 81.28,
+    "conversions": 3
+  },
+  {
+    "campaign_id": "cmp_campaigne",
+    "campaign_name": "Campaign_E",
+    "date": "2025-07-11",
+    "impressions": 547,
+    "clicks": 12,
+    "cost": 38.49,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignf",
+    "campaign_name": "Campaign_F",
+    "date": "2025-07-11",
+    "impressions": 750,
+    "clicks": 19,
+    "cost": 24.39,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaigna",
+    "campaign_name": "Campaign_A",
+    "date": "2025-07-12",
+    "impressions": 4388,
+    "clicks": 163,
+    "cost": 366.07,
+    "conversions": 3
+  },
+  {
+    "campaign_id": "cmp_campaignb",
+    "campaign_name": "Campaign_B",
+    "date": "2025-07-12",
+    "impressions": 444,
+    "clicks": 22,
+    "cost": 50.34,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignc",
+    "campaign_name": "Campaign_C",
+    "date": "2025-07-12",
+    "impressions": 2347,
+    "clicks": 53,
+    "cost": 53.18,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignd",
+    "campaign_name": "Campaign_D",
+    "date": "2025-07-12",
+    "impressions": 1310,
+    "clicks": 57,
+    "cost": 110.82,
+    "conversions": 4
+  },
+  {
+    "campaign_id": "cmp_campaigne",
+    "campaign_name": "Campaign_E",
+    "date": "2025-07-12",
+    "impressions": 2320,
+    "clicks": 29,
+    "cost": 59.48,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignf",
+    "campaign_name": "Campaign_F",
+    "date": "2025-07-12",
+    "impressions": 2025,
+    "clicks": 66,
+    "cost": 160.98,
+    "conversions": 2
+  },
+  {
+    "campaign_id": "cmp_campaigna",
+    "campaign_name": "Campaign_A",
+    "date": "2025-07-13",
+    "impressions": 3458,
+    "clicks": 129,
+    "cost": 342.64,
+    "conversions": 5
+  },
+  {
+    "campaign_id": "cmp_campaignb",
+    "campaign_name": "Campaign_B",
+    "date": "2025-07-13",
+    "impressions": 1310,
+    "clicks": 45,
+    "cost": 50.66,
+    "conversions": 3
+  },
+  {
+    "campaign_id": "cmp_campaignc",
+    "campaign_name": "Campaign_C",
+    "date": "2025-07-13",
+    "impressions": 1602,
+    "clicks": 21,
+    "cost": 19.07,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignd",
+    "campaign_name": "Campaign_D",
+    "date": "2025-07-13",
+    "impressions": 709,
+    "clicks": 11,
+    "cost": 26.93,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaigne",
+    "campaign_name": "Campaign_E",
+    "date": "2025-07-13",
+    "impressions": 2968,
+    "clicks": 126,
+    "cost": 389.66,
+    "conversions": 2
+  },
+  {
+    "campaign_id": "cmp_campaignf",
+    "campaign_name": "Campaign_F",
+    "date": "2025-07-13",
+    "impressions": 705,
+    "clicks": 7,
+    "cost": 7.63,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaigna",
+    "campaign_name": "Campaign_A",
+    "date": "2025-07-14",
+    "impressions": 2336,
+    "clicks": 101,
+    "cost": 90.06,
+    "conversions": 4
+  },
+  {
+    "campaign_id": "cmp_campaignb",
+    "campaign_name": "Campaign_B",
+    "date": "2025-07-14",
+    "impressions": 311,
+    "clicks": 7,
+    "cost": 9.0,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignc",
+    "campaign_name": "Campaign_C",
+    "date": "2025-07-14",
+    "impressions": 3019,
+    "clicks": 95,
+    "cost": 156.82,
+    "conversions": 2
+  },
+  {
+    "campaign_id": "cmp_campaignd",
+    "campaign_name": "Campaign_D",
+    "date": "2025-07-14",
+    "impressions": 2258,
+    "clicks": 67,
+    "cost": 178.73,
+    "conversions": 3
+  },
+  {
+    "campaign_id": "cmp_campaigne",
+    "campaign_name": "Campaign_E",
+    "date": "2025-07-14",
+    "impressions": 1921,
+    "clicks": 46,
+    "cost": 115.22,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignf",
+    "campaign_name": "Campaign_F",
+    "date": "2025-07-14",
+    "impressions": 1853,
+    "clicks": 60,
+    "cost": 150.43,
+    "conversions": 4
+  },
+  {
+    "campaign_id": "cmp_campaigna",
+    "campaign_name": "Campaign_A",
+    "date": "2025-07-15",
+    "impressions": 2632,
+    "clicks": 27,
+    "cost": 36.13,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignb",
+    "campaign_name": "Campaign_B",
+    "date": "2025-07-15",
+    "impressions": 1241,
+    "clicks": 32,
+    "cost": 53.59,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignc",
+    "campaign_name": "Campaign_C",
+    "date": "2025-07-15",
+    "impressions": 884,
+    "clicks": 33,
+    "cost": 51.01,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignd",
+    "campaign_name": "Campaign_D",
+    "date": "2025-07-15",
+    "impressions": 1308,
+    "clicks": 41,
+    "cost": 71.18,
+    "conversions": 2
+  },
+  {
+    "campaign_id": "cmp_campaigne",
+    "campaign_name": "Campaign_E",
+    "date": "2025-07-15",
+    "impressions": 1438,
+    "clicks": 35,
+    "cost": 38.27,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignf",
+    "campaign_name": "Campaign_F",
+    "date": "2025-07-15",
+    "impressions": 1746,
+    "clicks": 27,
+    "cost": 83.9,
+    "conversions": 2
+  },
+  {
+    "campaign_id": "cmp_campaigna",
+    "campaign_name": "Campaign_A",
+    "date": "2025-07-16",
+    "impressions": 3415,
+    "clicks": 160,
+    "cost": 276.43,
+    "conversions": 6
+  },
+  {
+    "campaign_id": "cmp_campaignb",
+    "campaign_name": "Campaign_B",
+    "date": "2025-07-16",
+    "impressions": 427,
+    "clicks": 8,
+    "cost": 20.29,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignc",
+    "campaign_name": "Campaign_C",
+    "date": "2025-07-16",
+    "impressions": 1011,
+    "clicks": 39,
+    "cost": 84.27,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignd",
+    "campaign_name": "Campaign_D",
+    "date": "2025-07-16",
+    "impressions": 936,
+    "clicks": 27,
+    "cost": 96.28,
+    "conversions": 2
+  },
+  {
+    "campaign_id": "cmp_campaigne",
+    "campaign_name": "Campaign_E",
+    "date": "2025-07-16",
+    "impressions": 1322,
+    "clicks": 13,
+    "cost": 18.34,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignf",
+    "campaign_name": "Campaign_F",
+    "date": "2025-07-16",
+    "impressions": 2042,
+    "clicks": 27,
+    "cost": 48.01,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaigna",
+    "campaign_name": "Campaign_A",
+    "date": "2025-07-17",
+    "impressions": 3928,
+    "clicks": 157,
+    "cost": 171.18,
+    "conversions": 3
+  },
+  {
+    "campaign_id": "cmp_campaignb",
+    "campaign_name": "Campaign_B",
+    "date": "2025-07-17",
+    "impressions": 1238,
+    "clicks": 18,
+    "cost": 32.54,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignc",
+    "campaign_name": "Campaign_C",
+    "date": "2025-07-17",
+    "impressions": 1219,
+    "clicks": 13,
+    "cost": 24.16,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignd",
+    "campaign_name": "Campaign_D",
+    "date": "2025-07-17",
+    "impressions": 1623,
+    "clicks": 74,
+    "cost": 150.69,
+    "conversions": 2
+  },
+  {
+    "campaign_id": "cmp_campaigne",
+    "campaign_name": "Campaign_E",
+    "date": "2025-07-17",
+    "impressions": 1491,
+    "clicks": 72,
+    "cost": 78.92,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignf",
+    "campaign_name": "Campaign_F",
+    "date": "2025-07-17",
+    "impressions": 2079,
+    "clicks": 61,
+    "cost": 86.2,
+    "conversions": 2
+  },
+  {
+    "campaign_id": "cmp_campaigna",
+    "campaign_name": "Campaign_A",
+    "date": "2025-07-18",
+    "impressions": 4329,
+    "clicks": 94,
+    "cost": 166.74,
+    "conversions": 3
+  },
+  {
+    "campaign_id": "cmp_campaignb",
+    "campaign_name": "Campaign_B",
+    "date": "2025-07-18",
+    "impressions": 1191,
+    "clicks": 39,
+    "cost": 109.0,
+    "conversions": 3
+  },
+  {
+    "campaign_id": "cmp_campaignc",
+    "campaign_name": "Campaign_C",
+    "date": "2025-07-18",
+    "impressions": 888,
+    "clicks": 21,
+    "cost": 59.6,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignd",
+    "campaign_name": "Campaign_D",
+    "date": "2025-07-18",
+    "impressions": 647,
+    "clicks": 18,
+    "cost": 47.02,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaigne",
+    "campaign_name": "Campaign_E",
+    "date": "2025-07-18",
+    "impressions": 743,
+    "clicks": 26,
+    "cost": 79.3,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignf",
+    "campaign_name": "Campaign_F",
+    "date": "2025-07-18",
+    "impressions": 1772,
+    "clicks": 43,
+    "cost": 68.56,
+    "conversions": 2
+  },
+  {
+    "campaign_id": "cmp_campaigna",
+    "campaign_name": "Campaign_A",
+    "date": "2025-07-19",
+    "impressions": 2421,
+    "clicks": 107,
+    "cost": 131.83,
+    "conversions": 4
+  },
+  {
+    "campaign_id": "cmp_campaignb",
+    "campaign_name": "Campaign_B",
+    "date": "2025-07-19",
+    "impressions": 1447,
+    "clicks": 62,
+    "cost": 199.24,
+    "conversions": 4
+  },
+  {
+    "campaign_id": "cmp_campaignc",
+    "campaign_name": "Campaign_C",
+    "date": "2025-07-19",
+    "impressions": 1968,
+    "clicks": 67,
+    "cost": 172.46,
+    "conversions": 2
+  },
+  {
+    "campaign_id": "cmp_campaignd",
+    "campaign_name": "Campaign_D",
+    "date": "2025-07-19",
+    "impressions": 1513,
+    "clicks": 71,
+    "cost": 142.11,
+    "conversions": 2
+  },
+  {
+    "campaign_id": "cmp_campaigne",
+    "campaign_name": "Campaign_E",
+    "date": "2025-07-19",
+    "impressions": 1794,
+    "clicks": 54,
+    "cost": 47.14,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignf",
+    "campaign_name": "Campaign_F",
+    "date": "2025-07-19",
+    "impressions": 842,
+    "clicks": 14,
+    "cost": 22.74,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaigna",
+    "campaign_name": "Campaign_A",
+    "date": "2025-07-20",
+    "impressions": 1340,
+    "clicks": 27,
+    "cost": 51.45,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignb",
+    "campaign_name": "Campaign_B",
+    "date": "2025-07-20",
+    "impressions": 716,
+    "clicks": 16,
+    "cost": 46.9,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignc",
+    "campaign_name": "Campaign_C",
+    "date": "2025-07-20",
+    "impressions": 678,
+    "clicks": 19,
+    "cost": 29.56,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignd",
+    "campaign_name": "Campaign_D",
+    "date": "2025-07-20",
+    "impressions": 901,
+    "clicks": 29,
+    "cost": 93.02,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaigne",
+    "campaign_name": "Campaing_E",
+    "date": "2025-07-20",
+    "impressions": 3178,
+    "clicks": 103,
+    "cost": 141.75,
+    "conversions": 2
+  },
+  {
+    "campaign_id": "cmp_campaignf",
+    "campaign_name": "Campaign_F",
+    "date": "2025-07-20",
+    "impressions": 661,
+    "clicks": 7,
+    "cost": 7.84,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaigna",
+    "campaign_name": "Campaign_A",
+    "date": "2025-07-21",
+    "impressions": 800,
+    "clicks": 14,
+    "cost": 35.46,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignb",
+    "campaign_name": "Campaign_B",
+    "date": "2025-07-21",
+    "impressions": 417,
+    "clicks": 15,
+    "cost": 30.86,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignc",
+    "campaign_name": "Campaign_C",
+    "date": "2025-07-21",
+    "impressions": 3285,
+    "clicks": 101,
+    "cost": 271.59,
+    "conversions": 2
+  },
+  {
+    "campaign_id": "cmp_campaignd",
+    "campaign_name": "Campaign_D",
+    "date": "2025-07-21",
+    "impressions": 2602,
+    "clicks": 62,
+    "cost": 77.39,
+    "conversions": 3
+  },
+  {
+    "campaign_id": "cmp_campaigne",
+    "campaign_name": "Campaign_E",
+    "date": "2025-07-21",
+    "impressions": 952,
+    "clicks": 23,
+    "cost": 66.62,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignf",
+    "campaign_name": "Campaign_F",
+    "date": "2025-07-21",
+    "impressions": 1259,
+    "clicks": 39,
+    "cost": 53.84,
+    "conversions": 3
+  },
+  {
+    "campaign_id": "cmp_campaigna",
+    "campaign_name": "Campaign_A",
+    "date": "2025-07-22",
+    "impressions": 788,
+    "clicks": 31,
+    "cost": 40.45,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignb",
+    "campaign_name": "Campaign_B",
+    "date": "2025-07-22",
+    "impressions": 888,
+    "clicks": 25,
+    "cost": 73.63,
+    "conversions": 2
+  },
+  {
+    "campaign_id": "cmp_campaignc",
+    "campaign_name": "Campaign_C",
+    "date": "2025-07-22",
+    "impressions": 3167,
+    "clicks": 92,
+    "cost": 294.0,
+    "conversions": 2
+  },
+  {
+    "campaign_id": "cmp_campaignd",
+    "campaign_name": "Campaign_D",
+    "date": "2025-07-22",
+    "impressions": 523,
+    "clicks": 13,
+    "cost": 38.11,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaigne",
+    "campaign_name": "Campaign_E",
+    "date": "2025-07-22",
+    "impressions": 930,
+    "clicks": 28,
+    "cost": 57.1,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignf",
+    "campaign_name": "Campaign_F",
+    "date": "2025-07-22",
+    "impressions": 1263,
+    "clicks": 41,
+    "cost": 52.95,
+    "conversions": 2
+  },
+  {
+    "campaign_id": "cmp_campaigna",
+    "campaign_name": "Campaign_A",
+    "date": "2025-07-23",
+    "impressions": 3014,
+    "clicks": 113,
+    "cost": 376.46,
+    "conversions": 2
+  },
+  {
+    "campaign_id": "cmp_campaignb",
+    "campaign_name": "Campaign_B",
+    "date": "2025-07-23",
+    "impressions": 532,
+    "clicks": 13,
+    "cost": 27.97,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignc",
+    "campaign_name": "Campaign_C",
+    "date": "2025-07-23",
+    "impressions": 1570,
+    "clicks": 78,
+    "cost": 135.63,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignd",
+    "campaign_name": "Campaign_D",
+    "date": "2025-07-23",
+    "impressions": 1913,
+    "clicks": 57,
+    "cost": 95.31,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaigne",
+    "campaign_name": "Campaign_E",
+    "date": "2025-07-23",
+    "impressions": 2310,
+    "clicks": 74,
+    "cost": 159.91,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignf",
+    "campaign_name": "Campaign_F",
+    "date": "2025-07-23",
+    "impressions": 1670,
+    "clicks": 36,
+    "cost": 110.75,
+    "conversions": 2
+  },
+  {
+    "campaign_id": "cmp_campaigna",
+    "campaign_name": "Campaign_A",
+    "date": "2025-07-24",
+    "impressions": 1694,
+    "clicks": 83,
+    "cost": 132.45,
+    "conversions": 3
+  },
+  {
+    "campaign_id": "cmp_campaignb",
+    "campaign_name": "Campaign_B",
+    "date": "2025-07-24",
+    "impressions": 621,
+    "clicks": 6,
+    "cost": 6.02,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignc",
+    "campaign_name": "Campaign_C",
+    "date": "2025-07-24",
+    "impressions": 2727,
+    "clicks": 121,
+    "cost": 108.62,
+    "conversions": 3
+  },
+  {
+    "campaign_id": "cmp_campaignd",
+    "campaign_name": "Campaign_D",
+    "date": "2025-07-24",
+    "impressions": 1760,
+    "clicks": 63,
+    "cost": 195.24,
+    "conversions": 3
+  },
+  {
+    "campaign_id": "cmp_campaigne",
+    "campaign_name": "Campaign_E",
+    "date": "2025-07-24",
+    "impressions": 875,
+    "clicks": 43,
+    "cost": 57.06,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignf",
+    "campaign_name": "Campaign_F",
+    "date": "2025-07-24",
+    "impressions": 749,
+    "clicks": 13,
+    "cost": 44.62,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaigna",
+    "campaign_name": "Campaign_A",
+    "date": "2025-07-25",
+    "impressions": 827,
+    "clicks": 17,
+    "cost": 39.41,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignb",
+    "campaign_name": "Campaign_B",
+    "date": "2025-07-25",
+    "impressions": 1569,
+    "clicks": 37,
+    "cost": 79.42,
+    "conversions": 3
+  },
+  {
+    "campaign_id": "cmp_campaignc",
+    "campaign_name": "Campaign_C",
+    "date": "2025-07-25",
+    "impressions": 862,
+    "clicks": 25,
+    "cost": 27.33,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignd",
+    "campaign_name": "Campaign_D",
+    "date": "2025-07-25",
+    "impressions": 1860,
+    "clicks": 20,
+    "cost": 21.01,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaigne",
+    "campaign_name": "Campaign_E",
+    "date": "2025-07-25",
+    "impressions": 962,
+    "clicks": 25,
+    "cost": 81.71,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignf",
+    "campaign_name": "Campaign_F",
+    "date": "2025-07-25",
+    "impressions": 721,
+    "clicks": 11,
+    "cost": 17.29,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaigna",
+    "campaign_name": "Campaign_A",
+    "date": "2025-07-26",
+    "impressions": 2811,
+    "clicks": 128,
+    "cost": 204.51,
+    "conversions": 3
+  },
+  {
+    "campaign_id": "cmp_campaignb",
+    "campaign_name": "Campaign_B",
+    "date": "2025-07-26",
+    "impressions": 1389,
+    "clicks": 21,
+    "cost": 61.44,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignc",
+    "campaign_name": "Campaign_C",
+    "date": "2025-07-26",
+    "impressions": 3170,
+    "clicks": 112,
+    "cost": 131.65,
+    "conversions": 2
+  },
+  {
+    "campaign_id": "cmp_campaignd",
+    "campaign_name": "Campaign_D",
+    "date": "2025-07-26",
+    "impressions": 841,
+    "clicks": 19,
+    "cost": 41.15,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaigne",
+    "campaign_name": "Campaign_E",
+    "date": "2025-07-26",
+    "impressions": 2189,
+    "clicks": 105,
+    "cost": 133.27,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignf",
+    "campaign_name": "Campaign_F",
+    "date": "2025-07-26",
+    "impressions": 781,
+    "clicks": 15,
+    "cost": 14.37,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaigna",
+    "campaign_name": "Campaign_A",
+    "date": "2025-07-27",
+    "impressions": 3918,
+    "clicks": 169,
+    "cost": 530.92,
+    "conversions": 7
+  },
+  {
+    "campaign_id": "cmp_campaignb",
+    "campaign_name": "Campaign_B",
+    "date": "2025-07-27",
+    "impressions": 1723,
+    "clicks": 18,
+    "cost": 21.82,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignc",
+    "campaign_name": "Campaign_C",
+    "date": "2025-07-27",
+    "impressions": 3333,
+    "clicks": 133,
+    "cost": 161.42,
+    "conversions": 4
+  },
+  {
+    "campaign_id": "cmp_campaignd",
+    "campaign_name": "Campaign_D",
+    "date": "2025-07-27",
+    "impressions": 1859,
+    "clicks": 41,
+    "cost": 56.23,
+    "conversions": 3
+  },
+  {
+    "campaign_id": "cmp_campaigne",
+    "campaign_name": "Campaign_E",
+    "date": "2025-07-27",
+    "impressions": 1842,
+    "clicks": 60,
+    "cost": 70.23,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignf",
+    "campaign_name": "Campaign_F",
+    "date": "2025-07-27",
+    "impressions": 1635,
+    "clicks": 57,
+    "cost": 126.85,
+    "conversions": 2
+  },
+  {
+    "campaign_id": "cmp_campaigna",
+    "campaign_name": "Campaign_A",
+    "date": "2025-07-28",
+    "impressions": 4283,
+    "clicks": 174,
+    "cost": 288.41,
+    "conversions": 7
+  },
+  {
+    "campaign_id": "cmp_campaignb",
+    "campaign_name": "Campaign_B",
+    "date": "2025-07-28",
+    "impressions": 1440,
+    "clicks": 21,
+    "cost": 20.09,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignc",
+    "campaign_name": "Campaign_C",
+    "date": "2025-07-28",
+    "impressions": 3493,
+    "clicks": 106,
+    "cost": 286.23,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignd",
+    "campaign_name": "Campaign_D",
+    "date": "2025-07-28",
+    "impressions": 706,
+    "clicks": 24,
+    "cost": 74.71,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaigne",
+    "campaign_name": "Campaign_E",
+    "date": "2025-07-28",
+    "impressions": 764,
+    "clicks": 20,
+    "cost": 41.6,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignf",
+    "campaign_name": "Campaign_F",
+    "date": "2025-07-28",
+    "impressions": 1336,
+    "clicks": 50,
+    "cost": 94.5,
+    "conversions": 4
+  },
+  {
+    "campaign_id": "cmp_campaigna",
+    "campaign_name": "Campaign_A",
+    "date": "2025-07-29",
+    "impressions": 2977,
+    "clicks": 119,
+    "cost": 255.85,
+    "conversions": 6
+  },
+  {
+    "campaign_id": "cmp_campaignb",
+    "campaign_name": "Campaign_B",
+    "date": "2025-07-29",
+    "impressions": 1652,
+    "clicks": 67,
+    "cost": 104.38,
+    "conversions": 2
+  },
+  {
+    "campaign_id": "cmp_campaignc",
+    "campaign_name": "Campaign_C",
+    "date": "2025-07-29",
+    "impressions": 1565,
+    "clicks": 73,
+    "cost": 71.5,
+    "conversions": 2
+  },
+  {
+    "campaign_id": "cmp_campaignd",
+    "campaign_name": "Campaign_D",
+    "date": "2025-07-29",
+    "impressions": 808,
+    "clicks": 26,
+    "cost": 82.7,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaigne",
+    "campaign_name": "Campaign_E",
+    "date": "2025-07-29",
+    "impressions": 1683,
+    "clicks": 50,
+    "cost": 137.23,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignf",
+    "campaign_name": "Campaign_F",
+    "date": "2025-07-29",
+    "impressions": 1168,
+    "clicks": 13,
+    "cost": 20.9,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaigna",
+    "campaign_name": "Campaign_A",
+    "date": "2025-07-30",
+    "impressions": 2740,
+    "clicks": 135,
+    "cost": 283.78,
+    "conversions": 6
+  },
+  {
+    "campaign_id": "cmp_campaignb",
+    "campaign_name": "Campaign_B",
+    "date": "2025-07-30",
+    "impressions": 1142,
+    "clicks": 16,
+    "cost": 26.87,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignc",
+    "campaign_name": "Campaign_C",
+    "date": "2025-07-30",
+    "impressions": 1372,
+    "clicks": 48,
+    "cost": 58.19,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignd",
+    "campaign_name": "Campaign_D",
+    "date": "2025-07-30",
+    "impressions": 1849,
+    "clicks": 83,
+    "cost": 222.96,
+    "conversions": 2
+  },
+  {
+    "campaign_id": "cmp_campaigne",
+    "campaign_name": "Campaign_E",
+    "date": "2025-07-30",
+    "impressions": 2502,
+    "clicks": 41,
+    "cost": 128.74,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignf",
+    "campaign_name": "Campaign_F",
+    "date": "2025-07-30",
+    "impressions": 706,
+    "clicks": 31,
+    "cost": 61.35,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaigna",
+    "campaign_name": "Campaign_A",
+    "date": "2025-07-31",
+    "impressions": 4001,
+    "clicks": 53,
+    "cost": 126.7,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignb",
+    "campaign_name": "Campaign_B",
+    "date": "2025-07-31",
+    "impressions": 1473,
+    "clicks": 45,
+    "cost": 36.69,
+    "conversions": 3
+  },
+  {
+    "campaign_id": "cmp_campaignc",
+    "campaign_name": "Campaign_C",
+    "date": "2025-07-31",
+    "impressions": 2127,
+    "clicks": 43,
+    "cost": 121.67,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignd",
+    "campaign_name": "Campaign_D",
+    "date": "2025-07-31",
+    "impressions": 2574,
+    "clicks": 95,
+    "cost": 331.64,
+    "conversions": 6
+  },
+  {
+    "campaign_id": "cmp_campaigne",
+    "campaign_name": "Campaign_E",
+    "date": "2025-07-31",
+    "impressions": 2202,
+    "clicks": 105,
+    "cost": 232.06,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignf",
+    "campaign_name": "Campaign_F",
+    "date": "2025-07-31",
+    "impressions": 1628,
+    "clicks": 48,
+    "cost": 95.09,
+    "conversions": 3
+  },
+  {
+    "campaign_id": "cmp_campaigna",
+    "campaign_name": "Campaign_A",
+    "date": "2025-08-01",
+    "impressions": 1706,
+    "clicks": 31,
+    "cost": 54.83,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignb",
+    "campaign_name": "Campaign_B",
+    "date": "2025-08-01",
+    "impressions": 968,
+    "clicks": 35,
+    "cost": 37.65,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignc",
+    "campaign_name": "Campaign_C",
+    "date": "2025-08-01",
+    "impressions": 1154,
+    "clicks": 53,
+    "cost": 156.45,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignd",
+    "campaign_name": "Campaign_D",
+    "date": "2025-08-01",
+    "impressions": 2134,
+    "clicks": 87,
+    "cost": 277.02,
+    "conversions": 3
+  },
+  {
+    "campaign_id": "cmp_campaigne",
+    "campaign_name": "Campaign_E",
+    "date": "2025-08-01",
+    "impressions": 2953,
+    "clicks": 61,
+    "cost": 61.64,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignf",
+    "campaign_name": "Campaign_F",
+    "date": "2025-08-01",
+    "impressions": 1146,
+    "clicks": 28,
+    "cost": 67.14,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaigna",
+    "campaign_name": "Campaign_A",
+    "date": "2025-08-02",
+    "impressions": 4378,
+    "clicks": 160,
+    "cost": 308.25,
+    "conversions": 7
+  },
+  {
+    "campaign_id": "cmp_campaignb",
+    "campaign_name": "Campaign_B",
+    "date": "2025-08-02",
+    "impressions": 1219,
+    "clicks": 43,
+    "cost": 69.28,
+    "conversions": 3
+  },
+  {
+    "campaign_id": "cmp_campaignc",
+    "campaign_name": "Campaign_C",
+    "date": "2025-08-02",
+    "impressions": 2441,
+    "clicks": 42,
+    "cost": 81.14,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignd",
+    "campaign_name": "Campaign_D",
+    "date": "2025-08-02",
+    "impressions": 1376,
+    "clicks": 30,
+    "cost": 31.05,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaigne",
+    "campaign_name": "Campaign_E",
+    "date": "2025-08-02",
+    "impressions": 1012,
+    "clicks": 27,
+    "cost": 39.51,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignf",
+    "campaign_name": "Campaign_F",
+    "date": "2025-08-02",
+    "impressions": 682,
+    "clicks": 32,
+    "cost": 61.55,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaigna",
+    "campaign_name": "Campaign_A",
+    "date": "2025-08-03",
+    "impressions": 4295,
+    "clicks": 205,
+    "cost": 362.1,
+    "conversions": 10
+  },
+  {
+    "campaign_id": "cmp_campaignb",
+    "campaign_name": "Campaign_B",
+    "date": "2025-08-03",
+    "impressions": 1069,
+    "clicks": 17,
+    "cost": 54.68,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignc",
+    "campaign_name": "Campaign_C",
+    "date": "2025-08-03",
+    "impressions": 2564,
+    "clicks": 101,
+    "cost": 183.78,
+    "conversions": 2
+  },
+  {
+    "campaign_id": "cmp_campaignd",
+    "campaign_name": "Campaign_D",
+    "date": "2025-08-03",
+    "impressions": 1817,
+    "clicks": 52,
+    "cost": 145.28,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaigne",
+    "campaign_name": "Campaign_E",
+    "date": "2025-08-03",
+    "impressions": 1477,
+    "clicks": 21,
+    "cost": 67.6,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignf",
+    "campaign_name": "Campaign_F",
+    "date": "2025-08-03",
+    "impressions": 468,
+    "clicks": 10,
+    "cost": 26.78,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaigna",
+    "campaign_name": "Campaign_A",
+    "date": "2025-08-04",
+    "impressions": 3690,
+    "clicks": 80,
+    "cost": 155.82,
+    "conversions": 3
+  },
+  {
+    "campaign_id": "cmp_campaignb",
+    "campaign_name": "Campaign_B",
+    "date": "2025-08-04",
+    "impressions": 1346,
+    "clicks": 38,
+    "cost": 45.64,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignc",
+    "campaign_name": "Campaign_C",
+    "date": "2025-08-04",
+    "impressions": 3386,
+    "clicks": 111,
+    "cost": 175.99,
+    "conversions": 2
+  },
+  {
+    "campaign_id": "cmp_campaignd",
+    "campaign_name": "Campaign_D",
+    "date": "2025-08-04",
+    "impressions": 866,
+    "clicks": 28,
+    "cost": 51.01,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaigne",
+    "campaign_name": "Campaign_E",
+    "date": "2025-08-04",
+    "impressions": 1678,
+    "clicks": 40,
+    "cost": 90.46,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignf",
+    "campaign_name": "Campaign_F",
+    "date": "2025-08-04",
+    "impressions": 2158,
+    "clicks": 56,
+    "cost": 155.98,
+    "conversions": 3
+  },
+  {
+    "campaign_id": "cmp_campaigna",
+    "campaign_name": "Campaign_A",
+    "date": "2025-08-05",
+    "impressions": 932,
+    "clicks": 11,
+    "cost": 21.33,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignb",
+    "campaign_name": "Campaign_B",
+    "date": "2025-08-05",
+    "impressions": 920,
+    "clicks": 40,
+    "cost": 133.63,
+    "conversions": 3
+  },
+  {
+    "campaign_id": "cmp_campaignc",
+    "campaign_name": "Campaign_C",
+    "date": "2025-08-05",
+    "impressions": 3255,
+    "clicks": 120,
+    "cost": 299.27,
+    "conversions": 3
+  },
+  {
+    "campaign_id": "cmp_campaignd",
+    "campaign_name": "Campaign_D",
+    "date": "2025-08-05",
+    "impressions": 2170,
+    "clicks": 28,
+    "cost": 27.13,
+    "conversions": 2
+  },
+  {
+    "campaign_id": "cmp_campaigne",
+    "campaign_name": "Campaign_E",
+    "date": "2025-08-05",
+    "impressions": 1253,
+    "clicks": 60,
+    "cost": 146.3,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignf",
+    "campaign_name": "Campaign_F",
+    "date": "2025-08-05",
+    "impressions": 834,
+    "clicks": 25,
+    "cost": 90.92,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaigna",
+    "campaign_name": "Campaign_A",
+    "date": "2025-08-06",
+    "impressions": 2975,
+    "clicks": 132,
+    "cost": 172.28,
+    "conversions": 5
+  },
+  {
+    "campaign_id": "cmp_campaignb",
+    "campaign_name": "Campaign_B",
+    "date": "2025-08-06",
+    "impressions": 1554,
+    "clicks": 47,
+    "cost": 46.62,
+    "conversions": 2
+  },
+  {
+    "campaign_id": "cmp_campaignc",
+    "campaign_name": "Campaign_C",
+    "date": "2025-08-06",
+    "impressions": 2070,
+    "clicks": 39,
+    "cost": 58.97,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignd",
+    "campaign_name": "Campaign_D",
+    "date": "2025-08-06",
+    "impressions": 1909,
+    "clicks": 43,
+    "cost": 85.58,
+    "conversions": 2
+  },
+  {
+    "campaign_id": "cmp_campaigne",
+    "campaign_name": "Campaign_E",
+    "date": "2025-08-06",
+    "impressions": 2222,
+    "clicks": 53,
+    "cost": 84.39,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignf",
+    "campaign_name": "Campaign_F",
+    "date": "2025-08-06",
+    "impressions": 737,
+    "clicks": 26,
+    "cost": 66.86,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaigna",
+    "campaign_name": "Campaign_A",
+    "date": "2025-08-07",
+    "impressions": 1446,
+    "clicks": 34,
+    "cost": 102.03,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignb",
+    "campaign_name": "Campaign_B",
+    "date": "2025-08-07",
+    "impressions": 416,
+    "clicks": 5,
+    "cost": 5.22,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignc",
+    "campaign_name": "Campaign_C",
+    "date": "2025-08-07",
+    "impressions": 992,
+    "clicks": 47,
+    "cost": 118.18,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignd",
+    "campaign_name": "Campaign_D",
+    "date": "2025-08-07",
+    "impressions": 850,
+    "clicks": 19,
+    "cost": 59.28,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaigne",
+    "campaign_name": "Campaign_E",
+    "date": "2025-08-07",
+    "impressions": 1358,
+    "clicks": 43,
+    "cost": 50.98,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignf",
+    "campaign_name": "Campaign_F",
+    "date": "2025-08-07",
+    "impressions": 1394,
+    "clicks": 58,
+    "cost": 152.94,
+    "conversions": 3
+  },
+  {
+    "campaign_id": "cmp_campaigna",
+    "campaign_name": "Campaign_A",
+    "date": "2025-08-08",
+    "impressions": 1578,
+    "clicks": 65,
+    "cost": 71.06,
+    "conversions": 2
+  },
+  {
+    "campaign_id": "cmp_campaignb",
+    "campaign_name": "Campaign_B",
+    "date": "2025-08-08",
+    "impressions": 708,
+    "clicks": 19,
+    "cost": 37.09,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignc",
+    "campaign_name": "Campaign_C",
+    "date": "2025-08-08",
+    "impressions": 2397,
+    "clicks": 85,
+    "cost": 122.75,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignd",
+    "campaign_name": "Campaign_D",
+    "date": "2025-08-08",
+    "impressions": 933,
+    "clicks": 14,
+    "cost": 35.1,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaigne",
+    "campaign_name": "Campaign_E",
+    "date": "2025-08-08",
+    "impressions": 2198,
+    "clicks": 62,
+    "cost": 144.22,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignf",
+    "campaign_name": "Campaign_F",
+    "date": "2025-08-08",
+    "impressions": 398,
+    "clicks": 15,
+    "cost": 38.73,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaigna",
+    "campaign_name": "Campaign_A",
+    "date": "2025-08-09",
+    "impressions": 3324,
+    "clicks": 90,
+    "cost": 264.68,
+    "conversions": 2
+  },
+  {
+    "campaign_id": "cmp_campaignb",
+    "campaign_name": "Campaign_B",
+    "date": "2025-08-09",
+    "impressions": 863,
+    "clicks": 23,
+    "cost": 76.18,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignc",
+    "campaign_name": "Campaign_C",
+    "date": "2025-08-09",
+    "impressions": 1520,
+    "clicks": 65,
+    "cost": 174.81,
+    "conversions": 2
+  },
+  {
+    "campaign_id": "cmp_campaignd",
+    "campaign_name": "Campaign_D",
+    "date": "2025-08-09",
+    "impressions": 1762,
+    "clicks": 37,
+    "cost": 88.93,
+    "conversions": 2
+  },
+  {
+    "campaign_id": "cmp_campaigne",
+    "campaign_name": "Campaign_E",
+    "date": "2025-08-09",
+    "impressions": 2470,
+    "clicks": 74,
+    "cost": 69.94,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignf",
+    "campaign_name": "Campaign_F",
+    "date": "2025-08-09",
+    "impressions": 1910,
+    "clicks": 65,
+    "cost": 225.49,
+    "conversions": 5
+  },
+  {
+    "campaign_id": "cmp_campaigna",
+    "campaign_name": "Campaign_A",
+    "date": "2025-08-10",
+    "impressions": 1418,
+    "clicks": 30,
+    "cost": 57.88,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignb",
+    "campaign_name": "Campaign_B",
+    "date": "2025-08-10",
+    "impressions": 340,
+    "clicks": 8,
+    "cost": 16.72,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignc",
+    "campaign_name": "Campaign_C",
+    "date": "2025-08-10",
+    "impressions": 3038,
+    "clicks": 121,
+    "cost": 183.87,
+    "conversions": 2
+  },
+  {
+    "campaign_id": "cmp_campaignd",
+    "campaign_name": "Campaign_D",
+    "date": "2025-08-10",
+    "impressions": 1591,
+    "clicks": 69,
+    "cost": 185.09,
+    "conversions": 5
+  },
+  {
+    "campaign_id": "cmp_campaigne",
+    "campaign_name": "Campaign_E",
+    "date": "2025-08-10",
+    "impressions": 2949,
+    "clicks": 58,
+    "cost": 124.03,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignf",
+    "campaign_name": "Campaign_F",
+    "date": "2025-08-10",
+    "impressions": 525,
+    "clicks": 14,
+    "cost": 37.36,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaigna",
+    "campaign_name": "Campaign_A",
+    "date": "2025-08-11",
+    "impressions": 1794,
+    "clicks": 36,
+    "cost": 106.14,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignb",
+    "campaign_name": "Campaign_B",
+    "date": "2025-08-11",
+    "impressions": 1709,
+    "clicks": 38,
+    "cost": 92.17,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignc",
+    "campaign_name": "Campaign_C",
+    "date": "2025-08-11",
+    "impressions": 2126,
+    "clicks": 92,
+    "cost": 144.85,
+    "conversions": 2
+  },
+  {
+    "campaign_id": "cmp_campaignd",
+    "campaign_name": "Campaign_D",
+    "date": "2025-08-11",
+    "impressions": 1380,
+    "clicks": 30,
+    "cost": 95.94,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaigne",
+    "campaign_name": "Campaign_E",
+    "date": "2025-08-11",
+    "impressions": 2638,
+    "clicks": 81,
+    "cost": 94.11,
+    "conversions": 2
+  },
+  {
+    "campaign_id": "cmp_campaignf",
+    "campaign_name": "Campaign_F",
+    "date": "2025-08-11",
+    "impressions": 1516,
+    "clicks": 48,
+    "cost": 123.35,
+    "conversions": 2
+  },
+  {
+    "campaign_id": "cmp_campaigna",
+    "campaign_name": "Campaign_A",
+    "date": "2025-08-12",
+    "impressions": 3068,
+    "clicks": 36,
+    "cost": 105.41,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignb",
+    "campaign_name": "Campaign_B",
+    "date": "2025-08-12",
+    "impressions": 352,
+    "clicks": 14,
+    "cost": 47.82,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignc",
+    "campaign_name": "Campaign_C",
+    "date": "2025-08-12",
+    "impressions": 2856,
+    "clicks": 129,
+    "cost": 114.85,
+    "conversions": 3
+  },
+  {
+    "campaign_id": "cmp_campaignd",
+    "campaign_name": "Campaign_D",
+    "date": "2025-08-12",
+    "impressions": 918,
+    "clicks": 41,
+    "cost": 45.15,
+    "conversions": 2
+  },
+  {
+    "campaign_id": "cmp_campaigne",
+    "campaign_name": "Campaign_E",
+    "date": "2025-08-12",
+    "impressions": 3149,
+    "clicks": 123,
+    "cost": 183.16,
+    "conversions": 2
+  },
+  {
+    "campaign_id": "cmp_campaignf",
+    "campaign_name": "Campaign_F",
+    "date": "2025-08-12",
+    "impressions": 562,
+    "clicks": 26,
+    "cost": 68.15,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaigna",
+    "campaign_name": "Campaign_A",
+    "date": "2025-08-13",
+    "impressions": 1432,
+    "clicks": 56,
+    "cost": 85.05,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignb",
+    "campaign_name": "Campaign_B",
+    "date": "2025-08-13",
+    "impressions": 1626,
+    "clicks": 52,
+    "cost": 113.27,
+    "conversions": 2
+  },
+  {
+    "campaign_id": "cmp_campaignc",
+    "campaign_name": "Campaign_C",
+    "date": "2025-08-13",
+    "impressions": 3151,
+    "clicks": 109,
+    "cost": 220.74,
+    "conversions": 3
+  },
+  {
+    "campaign_id": "cmp_campaignd",
+    "campaign_name": "Campaign_D",
+    "date": "2025-08-13",
+    "impressions": 1558,
+    "clicks": 36,
+    "cost": 120.79,
+    "conversions": 2
+  },
+  {
+    "campaign_id": "cmp_campaigne",
+    "campaign_name": "Campaign_E",
+    "date": "2025-08-13",
+    "impressions": 1059,
+    "clicks": 28,
+    "cost": 61.78,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignf",
+    "campaign_name": "Campaign_F",
+    "date": "2025-08-13",
+    "impressions": 1515,
+    "clicks": 74,
+    "cost": 114.37,
+    "conversions": 2
+  },
+  {
+    "campaign_id": "cmp_campaigna",
+    "campaign_name": "Campaign_A",
+    "date": "2025-08-14",
+    "impressions": 4079,
+    "clicks": 194,
+    "cost": 338.34,
+    "conversions": 10
+  },
+  {
+    "campaign_id": "cmp_campaignb",
+    "campaign_name": "Campaign_B",
+    "date": "2025-08-14",
+    "impressions": 474,
+    "clicks": 7,
+    "cost": 25.25,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignc",
+    "campaign_name": "Campaign_C",
+    "date": "2025-08-14",
+    "impressions": 2777,
+    "clicks": 114,
+    "cost": 138.72,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignd",
+    "campaign_name": "Campaign_D",
+    "date": "2025-08-14",
+    "impressions": 2131,
+    "clicks": 55,
+    "cost": 54.86,
+    "conversions": 2
+  },
+  {
+    "campaign_id": "cmp_campaigne",
+    "campaign_name": "Campaign_E",
+    "date": "2025-08-14",
+    "impressions": 2440,
+    "clicks": 81,
+    "cost": 164.39,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignf",
+    "campaign_name": "Campaign_F",
+    "date": "2025-08-14",
+    "impressions": 2043,
+    "clicks": 63,
+    "cost": 198.37,
+    "conversions": 5
+  },
+  {
+    "campaign_id": "cmp_campaigna",
+    "campaign_name": "Campaign_A",
+    "date": "2025-08-15",
+    "impressions": 3455,
+    "clicks": 164,
+    "cost": 500.34,
+    "conversions": 7
+  },
+  {
+    "campaign_id": "cmp_campaignb",
+    "campaign_name": "Campaign_B",
+    "date": "2025-08-15",
+    "impressions": 367,
+    "clicks": 17,
+    "cost": 45.59,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignc",
+    "campaign_name": "Campaign_C",
+    "date": "2025-08-15",
+    "impressions": 2387,
+    "clicks": 93,
+    "cost": 184.04,
+    "conversions": 2
+  },
+  {
+    "campaign_id": "cmp_campaignd",
+    "campaign_name": "Campaign_D",
+    "date": "2025-08-15",
+    "impressions": 1612,
+    "clicks": 69,
+    "cost": 241.72,
+    "conversions": 3
+  },
+  {
+    "campaign_id": "cmp_campaigne",
+    "campaign_name": "Campaign_E",
+    "date": "2025-08-15",
+    "impressions": 698,
+    "clicks": 25,
+    "cost": 35.52,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignf",
+    "campaign_name": "Campaign_F",
+    "date": "2025-08-15",
+    "impressions": 1139,
+    "clicks": 39,
+    "cost": 66.43,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaigna",
+    "campaign_name": "Campaign_A",
+    "date": "2025-08-16",
+    "impressions": 2846,
+    "clicks": 29,
+    "cost": 71.71,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignb",
+    "campaign_name": "Campaign_B",
+    "date": "2025-08-16",
+    "impressions": 1726,
+    "clicks": 50,
+    "cost": 141.4,
+    "conversions": 4
+  },
+  {
+    "campaign_id": "cmp_campaignc",
+    "campaign_name": "Campaign_C",
+    "date": "2025-08-16",
+    "impressions": 2508,
+    "clicks": 105,
+    "cost": 154.33,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignd",
+    "campaign_name": "Campaign_D",
+    "date": "2025-08-16",
+    "impressions": 1426,
+    "clicks": 30,
+    "cost": 102.16,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaigne",
+    "campaign_name": "Campaign_E",
+    "date": "2025-08-16",
+    "impressions": 1387,
+    "clicks": 67,
+    "cost": 122.54,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignf",
+    "campaign_name": "Campaign_F",
+    "date": "2025-08-16",
+    "impressions": 877,
+    "clicks": 19,
+    "cost": 24.0,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaigna",
+    "campaign_name": "Campaign_A",
+    "date": "2025-08-17",
+    "impressions": 3038,
+    "clicks": 41,
+    "cost": 61.75,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignb",
+    "campaign_name": "Campaign_B",
+    "date": "2025-08-17",
+    "impressions": 1458,
+    "clicks": 62,
+    "cost": 145.4,
+    "conversions": 4
+  },
+  {
+    "campaign_id": "cmp_campaignc",
+    "campaign_name": "Campaign_C",
+    "date": "2025-08-17",
+    "impressions": 2642,
+    "clicks": 83,
+    "cost": 107.33,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignd",
+    "campaign_name": "Campaign_D",
+    "date": "2025-08-17",
+    "impressions": 619,
+    "clicks": 26,
+    "cost": 35.7,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaigne",
+    "campaign_name": "Campaign_E",
+    "date": "2025-08-17",
+    "impressions": 1748,
+    "clicks": 59,
+    "cost": 138.27,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignf",
+    "campaign_name": "Campaign_F",
+    "date": "2025-08-17",
+    "impressions": 2010,
+    "clicks": 64,
+    "cost": 75.67,
+    "conversions": 5
+  },
+  {
+    "campaign_id": "cmp_campaigna",
+    "campaign_name": "Campaign_A",
+    "date": "2025-08-18",
+    "impressions": 3430,
+    "clicks": 121,
+    "cost": 369.7,
+    "conversions": 5
+  },
+  {
+    "campaign_id": "cmp_campaignb",
+    "campaign_name": "Campaign_B",
+    "date": "2025-08-18",
+    "impressions": 1496,
+    "clicks": 22,
+    "cost": 43.99,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignc",
+    "campaign_name": "Campaign_C",
+    "date": "2025-08-18",
+    "impressions": 3471,
+    "clicks": 172,
+    "cost": 254.66,
+    "conversions": 4
+  },
+  {
+    "campaign_id": "cmp_campaignd",
+    "campaign_name": "Campaign_D",
+    "date": "2025-08-18",
+    "impressions": 1948,
+    "clicks": 92,
+    "cost": 240.59,
+    "conversions": 7
+  },
+  {
+    "campaign_id": "cmp_campaigne",
+    "campaign_name": "Campaign_E",
+    "date": "2025-08-18",
+    "impressions": 2317,
+    "clicks": 27,
+    "cost": 54.92,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignf",
+    "campaign_name": "Campaign_F",
+    "date": "2025-08-18",
+    "impressions": 735,
+    "clicks": 24,
+    "cost": 45.56,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaigna",
+    "campaign_name": "Campaign_A",
+    "date": "2025-08-19",
+    "impressions": 2792,
+    "clicks": 126,
+    "cost": 265.98,
+    "conversions": 3
+  },
+  {
+    "campaign_id": "cmp_campaignb",
+    "campaign_name": "Campaign_B",
+    "date": "2025-08-19",
+    "impressions": 1071,
+    "clicks": 15,
+    "cost": 18.33,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignc",
+    "campaign_name": "Campaign_C",
+    "date": "2025-08-19",
+    "impressions": 1626,
+    "clicks": 67,
+    "cost": 151.17,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignd",
+    "campaign_name": "Campaign_D",
+    "date": "2025-08-19",
+    "impressions": 2443,
+    "clicks": 48,
+    "cost": 88.71,
+    "conversions": 3
+  },
+  {
+    "campaign_id": "cmp_campaigne",
+    "campaign_name": "Campaign_E",
+    "date": "2025-08-19",
+    "impressions": 2213,
+    "clicks": 56,
+    "cost": 148.3,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignf",
+    "campaign_name": "Campaign_F",
+    "date": "2025-08-19",
+    "impressions": 606,
+    "clicks": 28,
+    "cost": 100.75,
+    "conversions": 2
+  },
+  {
+    "campaign_id": "cmp_campaigna",
+    "campaign_name": "Campaign_A",
+    "date": "2025-08-20",
+    "impressions": 3588,
+    "clicks": 105,
+    "cost": 138.93,
+    "conversions": 4
+  },
+  {
+    "campaign_id": "cmp_campaignb",
+    "campaign_name": "Campaign_B",
+    "date": "2025-08-20",
+    "impressions": 857,
+    "clicks": 31,
+    "cost": 39.81,
+    "conversions": 2
+  },
+  {
+    "campaign_id": "cmp_campaignc",
+    "campaign_name": "Campaign_C",
+    "date": "2025-08-20",
+    "impressions": 2819,
+    "clicks": 31,
+    "cost": 105.5,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignd",
+    "campaign_name": "Campaign_D",
+    "date": "2025-08-20",
+    "impressions": 2216,
+    "clicks": 29,
+    "cost": 24.84,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaigne",
+    "campaign_name": "Campaign_E",
+    "date": "2025-08-20",
+    "impressions": 1060,
+    "clicks": 23,
+    "cost": 30.42,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignf",
+    "campaign_name": "Campaign_F",
+    "date": "2025-08-20",
+    "impressions": 2035,
+    "clicks": 63,
+    "cost": 137.56,
+    "conversions": 3
+  },
+  {
+    "campaign_id": "cmp_campaigna",
+    "campaign_name": "Campaign_A",
+    "date": "2025-08-21",
+    "impressions": 2908,
+    "clicks": 74,
+    "cost": 59.99,
+    "conversions": 2
+  },
+  {
+    "campaign_id": "cmp_campaignb",
+    "campaign_name": "Campaign_B",
+    "date": "2025-08-21",
+    "impressions": 306,
+    "clicks": 4,
+    "cost": 12.1,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignc",
+    "campaign_name": "Campaign_C",
+    "date": "2025-08-21",
+    "impressions": 2922,
+    "clicks": 112,
+    "cost": 234.14,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignd",
+    "campaign_name": "Campaign_D",
+    "date": "2025-08-21",
+    "impressions": 660,
+    "clicks": 23,
+    "cost": 22.05,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaigne",
+    "campaign_name": "Campaign_E",
+    "date": "2025-08-21",
+    "impressions": 663,
+    "clicks": 30,
+    "cost": 92.46,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignf",
+    "campaign_name": "Campaign_F",
+    "date": "2025-08-21",
+    "impressions": 1367,
+    "clicks": 28,
+    "cost": 76.59,
+    "conversions": 2
+  },
+  {
+    "campaign_id": "cmp_campaigna",
+    "campaign_name": "Campaign_A",
+    "date": "2025-08-22",
+    "impressions": 4080,
+    "clicks": 71,
+    "cost": 120.53,
+    "conversions": 2
+  },
+  {
+    "campaign_id": "cmp_campaignb",
+    "campaign_name": "Campaign_B",
+    "date": "2025-08-22",
+    "impressions": 1004,
+    "clicks": 28,
+    "cost": 34.68,
+    "conversions": 2
+  },
+  {
+    "campaign_id": "cmp_campaignc",
+    "campaign_name": "Campaign_C",
+    "date": "2025-08-22",
+    "impressions": 1435,
+    "clicks": 22,
+    "cost": 78.24,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignd",
+    "campaign_name": "Campaign_D",
+    "date": "2025-08-22",
+    "impressions": 1922,
+    "clicks": 60,
+    "cost": 194.5,
+    "conversions": 4
+  },
+  {
+    "campaign_id": "cmp_campaigne",
+    "campaign_name": "Campaign_E",
+    "date": "2025-08-22",
+    "impressions": 1265,
+    "clicks": 36,
+    "cost": 64.17,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignf",
+    "campaign_name": "Campaign_F",
+    "date": "2025-08-22",
+    "impressions": 1626,
+    "clicks": 35,
+    "cost": 57.34,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaigna",
+    "campaign_name": "Campaign_A",
+    "date": "2025-08-23",
+    "impressions": 1954,
+    "clicks": 95,
+    "cost": 140.29,
+    "conversions": 2
+  },
+  {
+    "campaign_id": "cmp_campaignb",
+    "campaign_name": "Campaign_B",
+    "date": "2025-08-23",
+    "impressions": 1656,
+    "clicks": 53,
+    "cost": 69.04,
+    "conversions": 4
+  },
+  {
+    "campaign_id": "cmp_campaignc",
+    "campaign_name": "Campaign_C",
+    "date": "2025-08-23",
+    "impressions": 1114,
+    "clicks": 32,
+    "cost": 38.53,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignd",
+    "campaign_name": "Campaign_D",
+    "date": "2025-08-23",
+    "impressions": 2470,
+    "clicks": 34,
+    "cost": 96.94,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaigne",
+    "campaign_name": "Campaign_E",
+    "date": "2025-08-23",
+    "impressions": 3128,
+    "clicks": 73,
+    "cost": 213.66,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignf",
+    "campaign_name": "Campaign_F",
+    "date": "2025-08-23",
+    "impressions": 1716,
+    "clicks": 66,
+    "cost": 91.84,
+    "conversions": 2
+  },
+  {
+    "campaign_id": "cmp_campaigna",
+    "campaign_name": "Campaign_A",
+    "date": "2025-08-24",
+    "impressions": 852,
+    "clicks": 17,
+    "cost": 22.13,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignb",
+    "campaign_name": "Campaign_B",
+    "date": "2025-08-24",
+    "impressions": 305,
+    "clicks": 11,
+    "cost": 10.47,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignc",
+    "campaign_name": "Campaign_C",
+    "date": "2025-08-24",
+    "impressions": 2904,
+    "clicks": 80,
+    "cost": 179.51,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignd",
+    "campaign_name": "Campaign_D",
+    "date": "2025-08-24",
+    "impressions": 2216,
+    "clicks": 73,
+    "cost": 169.78,
+    "conversions": 2
+  },
+  {
+    "campaign_id": "cmp_campaigne",
+    "campaign_name": "Campaign_E",
+    "date": "2025-08-24",
+    "impressions": 2401,
+    "clicks": 82,
+    "cost": 158.6,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignf",
+    "campaign_name": "Campaign_F",
+    "date": "2025-08-24",
+    "impressions": 625,
+    "clicks": 23,
+    "cost": 36.16,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaigna",
+    "campaign_name": "Campaign_A",
+    "date": "2025-08-25",
+    "impressions": 3501,
+    "clicks": 102,
+    "cost": 300.98,
+    "conversions": 2
+  },
+  {
+    "campaign_id": "cmp_campaignb",
+    "campaign_name": "Campaign_B",
+    "date": "2025-08-25",
+    "impressions": 1754,
+    "clicks": 68,
+    "cost": 113.82,
+    "conversions": 3
+  },
+  {
+    "campaign_id": "cmp_campaignc",
+    "campaign_name": "Campaign_C",
+    "date": "2025-08-25",
+    "impressions": 1968,
+    "clicks": 43,
+    "cost": 128.34,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignd",
+    "campaign_name": "Campaign_D",
+    "date": "2025-08-25",
+    "impressions": 1013,
+    "clicks": 38,
+    "cost": 63.83,
+    "conversions": 2
+  },
+  {
+    "campaign_id": "cmp_campaigne",
+    "campaign_name": "Campaign_E",
+    "date": "2025-08-25",
+    "impressions": 2472,
+    "clicks": 91,
+    "cost": 318.68,
+    "conversions": 2
+  },
+  {
+    "campaign_id": "cmp_campaignf",
+    "campaign_name": "Campaign_F",
+    "date": "2025-08-25",
+    "impressions": 592,
+    "clicks": 14,
+    "cost": 36.99,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaigna",
+    "campaign_name": "Campaign_A",
+    "date": "2025-08-26",
+    "impressions": 3780,
+    "clicks": 62,
+    "cost": 162.93,
+    "conversions": 3
+  },
+  {
+    "campaign_id": "cmp_campaignb",
+    "campaign_name": "Campaign_B",
+    "date": "2025-08-26",
+    "impressions": 389,
+    "clicks": 11,
+    "cost": 20.57,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignc",
+    "campaign_name": "Campaign_C",
+    "date": "2025-08-26",
+    "impressions": 3375,
+    "clicks": 71,
+    "cost": 215.11,
+    "conversions": 2
+  },
+  {
+    "campaign_id": "cmp_campaignd",
+    "campaign_name": "Campaign_D",
+    "date": "2025-08-26",
+    "impressions": 1155,
+    "clicks": 18,
+    "cost": 30.09,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaigne",
+    "campaign_name": "Campaign_E",
+    "date": "2025-08-26",
+    "impressions": 1669,
+    "clicks": 38,
+    "cost": 96.87,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignf",
+    "campaign_name": "Campaign_F",
+    "date": "2025-08-26",
+    "impressions": 1692,
+    "clicks": 82,
+    "cost": 140.54,
+    "conversions": 3
+  },
+  {
+    "campaign_id": "cmp_campaigna",
+    "campaign_name": "Campaign_A",
+    "date": "2025-08-27",
+    "impressions": 2955,
+    "clicks": 92,
+    "cost": 234.05,
+    "conversions": 2
+  },
+  {
+    "campaign_id": "cmp_campaignb",
+    "campaign_name": "Campaign_B",
+    "date": "2025-08-27",
+    "impressions": 1136,
+    "clicks": 13,
+    "cost": 13.23,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignc",
+    "campaign_name": "Campaign_C",
+    "date": "2025-08-27",
+    "impressions": 3052,
+    "clicks": 94,
+    "cost": 202.0,
+    "conversions": 2
+  },
+  {
+    "campaign_id": "cmp_campaignd",
+    "campaign_name": "Campaign_D",
+    "date": "2025-08-27",
+    "impressions": 838,
+    "clicks": 30,
+    "cost": 32.18,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaigne",
+    "campaign_name": "Campaign_E",
+    "date": "2025-08-27",
+    "impressions": 3094,
+    "clicks": 53,
+    "cost": 54.79,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignf",
+    "campaign_name": "Campaign_F",
+    "date": "2025-08-27",
+    "impressions": 1737,
+    "clicks": 47,
+    "cost": 162.73,
+    "conversions": 3
+  },
+  {
+    "campaign_id": "cmp_campaigna",
+    "campaign_name": "Campaign_A",
+    "date": "2025-08-28",
+    "impressions": 3129,
+    "clicks": 58,
+    "cost": 134.53,
+    "conversions": 2
+  },
+  {
+    "campaign_id": "cmp_campaignb",
+    "campaign_name": "Campaign_B",
+    "date": "2025-08-28",
+    "impressions": 787,
+    "clicks": 22,
+    "cost": 58.3,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignc",
+    "campaign_name": "Campaign_C",
+    "date": "2025-08-28",
+    "impressions": 821,
+    "clicks": 21,
+    "cost": 63.54,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignd",
+    "campaign_name": "Campaign_D",
+    "date": "2025-08-28",
+    "impressions": 2067,
+    "clicks": 88,
+    "cost": 70.43,
+    "conversions": 3
+  },
+  {
+    "campaign_id": "cmp_campaigne",
+    "campaign_name": "Campaign_E",
+    "date": "2025-08-28",
+    "impressions": 2013,
+    "clicks": 98,
+    "cost": 76.78,
+    "conversions": 2
+  },
+  {
+    "campaign_id": "cmp_campaignf",
+    "campaign_name": "Campaign_F",
+    "date": "2025-08-28",
+    "impressions": 1360,
+    "clicks": 43,
+    "cost": 35.94,
+    "conversions": 2
+  },
+  {
+    "campaign_id": "cmp_campaigna",
+    "campaign_name": "Campaign_A",
+    "date": "2025-08-29",
+    "impressions": 3901,
+    "clicks": 76,
+    "cost": 236.7,
+    "conversions": 3
+  },
+  {
+    "campaign_id": "cmp_campaignb",
+    "campaign_name": "Campaign_B",
+    "date": "2025-08-29",
+    "impressions": 442,
+    "clicks": 20,
+    "cost": 61.39,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignc",
+    "campaign_name": "Campaign_C",
+    "date": "2025-08-29",
+    "impressions": 1288,
+    "clicks": 57,
+    "cost": 63.36,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignd",
+    "campaign_name": "Campaign_D",
+    "date": "2025-08-29",
+    "impressions": 450,
+    "clicks": 10,
+    "cost": 16.21,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaigne",
+    "campaign_name": "Campaign_E",
+    "date": "2025-08-29",
+    "impressions": 2811,
+    "clicks": 49,
+    "cost": 128.93,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignf",
+    "campaign_name": "Campaign_F",
+    "date": "2025-08-29",
+    "impressions": 1544,
+    "clicks": 25,
+    "cost": 48.89,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaigna",
+    "campaign_name": "Campaign_A",
+    "date": "2025-08-30",
+    "impressions": 3897,
+    "clicks": 73,
+    "cost": 58.2,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignb",
+    "campaign_name": "Campaign_B",
+    "date": "2025-08-30",
+    "impressions": 1750,
+    "clicks": 25,
+    "cost": 30.95,
+    "conversions": 2
+  },
+  {
+    "campaign_id": "cmp_campaignc",
+    "campaign_name": "Campaign_C",
+    "date": "2025-08-30",
+    "impressions": 2278,
+    "clicks": 66,
+    "cost": 210.84,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignd",
+    "campaign_name": "Campaign_D",
+    "date": "2025-08-30",
+    "impressions": 1910,
+    "clicks": 50,
+    "cost": 121.72,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaigne",
+    "campaign_name": "Campaign_E",
+    "date": "2025-08-30",
+    "impressions": 1707,
+    "clicks": 47,
+    "cost": 96.28,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignf",
+    "campaign_name": "Campaign_F",
+    "date": "2025-08-30",
+    "impressions": 376,
+    "clicks": 8,
+    "cost": 11.78,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaigna",
+    "campaign_name": "Campaign_A",
+    "date": "2025-08-31",
+    "impressions": 3115,
+    "clicks": 83,
+    "cost": 152.17,
+    "conversions": 3
+  },
+  {
+    "campaign_id": "cmp_campaignb",
+    "campaign_name": "Campaign_B",
+    "date": "2025-08-31",
+    "impressions": 368,
+    "clicks": 4,
+    "cost": 5.61,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignc",
+    "campaign_name": "Campaign_C",
+    "date": "2025-08-31",
+    "impressions": 2889,
+    "clicks": 103,
+    "cost": 330.34,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignd",
+    "campaign_name": "Campaign_D",
+    "date": "2025-08-31",
+    "impressions": 2672,
+    "clicks": 95,
+    "cost": 193.23,
+    "conversions": 5
+  },
+  {
+    "campaign_id": "cmp_campaigne",
+    "campaign_name": "Campaign_E",
+    "date": "2025-08-31",
+    "impressions": 2840,
+    "clicks": 50,
+    "cost": 165.68,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignf",
+    "campaign_name": "Campaign_F",
+    "date": "2025-08-31",
+    "impressions": 1835,
+    "clicks": 46,
+    "cost": 161.82,
+    "conversions": 2
+  },
+  {
+    "campaign_id": "cmp_campaigna",
+    "campaign_name": "Campaign_A",
+    "date": "2025-09-01",
+    "impressions": 2705,
+    "clicks": 131,
+    "cost": 315.17,
+    "conversions": 3
+  },
+  {
+    "campaign_id": "cmp_campaignb",
+    "campaign_name": "Campaign_B",
+    "date": "2025-09-01",
+    "impressions": 1301,
+    "clicks": 39,
+    "cost": 67.1,
+    "conversions": 2
+  },
+  {
+    "campaign_id": "cmp_campaignc",
+    "campaign_name": "Campaign_C",
+    "date": "2025-09-01",
+    "impressions": 2239,
+    "clicks": 64,
+    "cost": 95.21,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignd",
+    "campaign_name": "Campaign_D",
+    "date": "2025-09-01",
+    "impressions": 947,
+    "clicks": 37,
+    "cost": 76.59,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaigne",
+    "campaign_name": "Campaign_E",
+    "date": "2025-09-01",
+    "impressions": 1390,
+    "clicks": 48,
+    "cost": 154.43,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignf",
+    "campaign_name": "Campaign_F",
+    "date": "2025-09-01",
+    "impressions": 1605,
+    "clicks": 25,
+    "cost": 31.11,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaigna",
+    "campaign_name": "Campaign_A",
+    "date": "2025-09-02",
+    "impressions": 3627,
+    "clicks": 68,
+    "cost": 180.77,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignb",
+    "campaign_name": "Campaign_B",
+    "date": "2025-09-02",
+    "impressions": 1503,
+    "clicks": 25,
+    "cost": 30.51,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignc",
+    "campaign_name": "Campaign_C",
+    "date": "2025-09-02",
+    "impressions": 2971,
+    "clicks": 77,
+    "cost": 135.66,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignd",
+    "campaign_name": "Campaign_D",
+    "date": "2025-09-02",
+    "impressions": 1820,
+    "clicks": 70,
+    "cost": 122.98,
+    "conversions": 4
+  },
+  {
+    "campaign_id": "cmp_campaigne",
+    "campaign_name": "Campaign_E",
+    "date": "2025-09-02",
+    "impressions": 1947,
+    "clicks": 33,
+    "cost": 29.98,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignf",
+    "campaign_name": "Campaign_F",
+    "date": "2025-09-02",
+    "impressions": 409,
+    "clicks": 13,
+    "cost": 20.02,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaigna",
+    "campaign_name": "Campaign_A",
+    "date": "2025-09-03",
+    "impressions": 3292,
+    "clicks": 95,
+    "cost": 158.47,
+    "conversions": 3
+  },
+  {
+    "campaign_id": "cmp_campaignb",
+    "campaign_name": "Campaign_B",
+    "date": "2025-09-03",
+    "impressions": 476,
+    "clicks": 10,
+    "cost": 9.15,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignc",
+    "campaign_name": "Campaign_C",
+    "date": "2025-09-03",
+    "impressions": 3287,
+    "clicks": 113,
+    "cost": 342.54,
+    "conversions": 2
+  },
+  {
+    "campaign_id": "cmp_campaignd",
+    "campaign_name": "Campaign_D",
+    "date": "2025-09-03",
+    "impressions": 2231,
+    "clicks": 99,
+    "cost": 295.07,
+    "conversions": 5
+  },
+  {
+    "campaign_id": "cmp_campaigne",
+    "campaign_name": "Campaign_E",
+    "date": "2025-09-03",
+    "impressions": 1571,
+    "clicks": 65,
+    "cost": 209.13,
+    "conversions": 2
+  },
+  {
+    "campaign_id": "cmp_campaignf",
+    "campaign_name": "Campaign_F",
+    "date": "2025-09-03",
+    "impressions": 1632,
+    "clicks": 39,
+    "cost": 82.49,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaigna",
+    "campaign_name": "Campaign_A",
+    "date": "2025-09-04",
+    "impressions": 1429,
+    "clicks": 64,
+    "cost": 133.17,
+    "conversions": 2
+  },
+  {
+    "campaign_id": "cmp_campaignb",
+    "campaign_name": "Campaign_B",
+    "date": "2025-09-04",
+    "impressions": 1208,
+    "clicks": 33,
+    "cost": 82.18,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignc",
+    "campaign_name": "Campain_C",
+    "date": "2025-09-04",
+    "impressions": 2492,
+    "clicks": 30,
+    "cost": 45.66,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignd",
+    "campaign_name": "Campaign_D",
+    "date": "2025-09-04",
+    "impressions": 2080,
+    "clicks": 40,
+    "cost": 141.08,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaigne",
+    "campaign_name": "Campaign_E",
+    "date": "2025-09-04",
+    "impressions": 2318,
+    "clicks": 31,
+    "cost": 76.64,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignf",
+    "campaign_name": "Campaign_F",
+    "date": "2025-09-04",
+    "impressions": 778,
+    "clicks": 38,
+    "cost": 117.2,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaigna",
+    "campaign_name": "Campaign_A",
+    "date": "2025-09-05",
+    "impressions": 2772,
+    "clicks": 39,
+    "cost": 106.52,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignb",
+    "campaign_name": "Campaign_B",
+    "date": "2025-09-05",
+    "impressions": 443,
+    "clicks": 8,
+    "cost": 19.04,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignc",
+    "campaign_name": "Campaign_C",
+    "date": "2025-09-05",
+    "impressions": 2366,
+    "clicks": 35,
+    "cost": 46.57,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignd",
+    "campaign_name": "Campaign_D",
+    "date": "2025-09-05",
+    "impressions": 843,
+    "clicks": 31,
+    "cost": 31.67,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaigne",
+    "campaign_name": "Campaign_E",
+    "date": "2025-09-05",
+    "impressions": 1243,
+    "clicks": 51,
+    "cost": 86.38,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignf",
+    "campaign_name": "Campaign_F",
+    "date": "2025-09-05",
+    "impressions": 701,
+    "clicks": 18,
+    "cost": 44.87,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaigna",
+    "campaign_name": "Campaign_A",
+    "date": "2025-09-06",
+    "impressions": 4125,
+    "clicks": 146,
+    "cost": 323.49,
+    "conversions": 5
+  },
+  {
+    "campaign_id": "cmp_campaignb",
+    "campaign_name": "Campaign_B",
+    "date": "2025-09-06",
+    "impressions": 830,
+    "clicks": 19,
+    "cost": 54.64,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignc",
+    "campaign_name": "Campaign_C",
+    "date": "2025-09-06",
+    "impressions": 2163,
+    "clicks": 26,
+    "cost": 38.08,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignd",
+    "campaign_name": "Campaign_D",
+    "date": "2025-09-06",
+    "impressions": 1643,
+    "clicks": 32,
+    "cost": 28.84,
+    "conversions": 2
+  },
+  {
+    "campaign_id": "cmp_campaigne",
+    "campaign_name": "Campaign_E",
+    "date": "2025-09-06",
+    "impressions": 2781,
+    "clicks": 62,
+    "cost": 194.24,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignf",
+    "campaign_name": "Campaign_F",
+    "date": "2025-09-06",
+    "impressions": 1195,
+    "clicks": 39,
+    "cost": 53.01,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaigna",
+    "campaign_name": "Campaign_A",
+    "date": "2025-09-07",
+    "impressions": 3525,
+    "clicks": 127,
+    "cost": 451.57,
+    "conversions": 5
+  },
+  {
+    "campaign_id": "cmp_campaignb",
+    "campaign_name": "Campaign_B",
+    "date": "2025-09-07",
+    "impressions": 1360,
+    "clicks": 43,
+    "cost": 80.56,
+    "conversions": 3
+  },
+  {
+    "campaign_id": "cmp_campaignc",
+    "campaign_name": "Campaign_C",
+    "date": "2025-09-07",
+    "impressions": 2093,
+    "clicks": 99,
+    "cost": 176.08,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignd",
+    "campaign_name": "Campaign_D",
+    "date": "2025-09-07",
+    "impressions": 1291,
+    "clicks": 42,
+    "cost": 84.75,
+    "conversions": 3
+  },
+  {
+    "campaign_id": "cmp_campaigne",
+    "campaign_name": "Campaign_E",
+    "date": "2025-09-07",
+    "impressions": 2790,
+    "clicks": 57,
+    "cost": 170.52,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignf",
+    "campaign_name": "Campaign_F",
+    "date": "2025-09-07",
+    "impressions": 502,
+    "clicks": 19,
+    "cost": 35.46,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaigna",
+    "campaign_name": "Campaign_A",
+    "date": "2025-09-08",
+    "impressions": 2548,
+    "clicks": 67,
+    "cost": 173.59,
+    "conversions": 3
+  },
+  {
+    "campaign_id": "cmp_campaignb",
+    "campaign_name": "Campaign_B",
+    "date": "2025-09-08",
+    "impressions": 1031,
+    "clicks": 38,
+    "cost": 70.89,
+    "conversions": 2
+  },
+  {
+    "campaign_id": "cmp_campaignc",
+    "campaign_name": "Campaign_C",
+    "date": "2025-09-08",
+    "impressions": 2954,
+    "clicks": 119,
+    "cost": 370.97,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignd",
+    "campaign_name": "Campaign_D",
+    "date": "2025-09-08",
+    "impressions": 1576,
+    "clicks": 52,
+    "cost": 97.64,
+    "conversions": 4
+  },
+  {
+    "campaign_id": "cmp_campaigne",
+    "campaign_name": "Campaign_E",
+    "date": "2025-09-08",
+    "impressions": 1715,
+    "clicks": 36,
+    "cost": 96.88,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignf",
+    "campaign_name": "Campaign_F",
+    "date": "2025-09-08",
+    "impressions": 1621,
+    "clicks": 24,
+    "cost": 46.35,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaigna",
+    "campaign_name": "Campaign_A",
+    "date": "2025-09-09",
+    "impressions": 3915,
+    "clicks": 188,
+    "cost": 632.06,
+    "conversions": 8
+  },
+  {
+    "campaign_id": "cmp_campaignb",
+    "campaign_name": "Campaign_B",
+    "date": "2025-09-09",
+    "impressions": 1334,
+    "clicks": 57,
+    "cost": 61.13,
+    "conversions": 2
+  },
+  {
+    "campaign_id": "cmp_campaignc",
+    "campaign_name": "Campaign_C",
+    "date": "2025-09-09",
+    "impressions": 1946,
+    "clicks": 40,
+    "cost": 99.63,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignd",
+    "campaign_name": "Campaign_D",
+    "date": "2025-09-09",
+    "impressions": 1291,
+    "clicks": 46,
+    "cost": 153.51,
+    "conversions": 3
+  },
+  {
+    "campaign_id": "cmp_campaigne",
+    "campaign_name": "Campaign_E",
+    "date": "2025-09-09",
+    "impressions": 836,
+    "clicks": 28,
+    "cost": 74.22,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignf",
+    "campaign_name": "Campaign_F",
+    "date": "2025-09-09",
+    "impressions": 981,
+    "clicks": 16,
+    "cost": 14.05,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaigna",
+    "campaign_name": "Campaign_A",
+    "date": "2025-09-10",
+    "impressions": 1378,
+    "clicks": 40,
+    "cost": 101.0,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignb",
+    "campaign_name": "Campaign_B",
+    "date": "2025-09-10",
+    "impressions": 636,
+    "clicks": 19,
+    "cost": 18.88,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignc",
+    "campaign_name": "Campaign_C",
+    "date": "2025-09-10",
+    "impressions": 2943,
+    "clicks": 137,
+    "cost": 241.49,
+    "conversions": 2
+  },
+  {
+    "campaign_id": "cmp_campaignd",
+    "campaign_name": "Campaign_D",
+    "date": "2025-09-10",
+    "impressions": 768,
+    "clicks": 8,
+    "cost": 15.96,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaigne",
+    "campaign_name": "Campaign_E",
+    "date": "2025-09-10",
+    "impressions": 1779,
+    "clicks": 53,
+    "cost": 147.23,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignf",
+    "campaign_name": "Campaign_F",
+    "date": "2025-09-10",
+    "impressions": 548,
+    "clicks": 24,
+    "cost": 79.38,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaigna",
+    "campaign_name": "Campaign_A",
+    "date": "2025-09-11",
+    "impressions": 1475,
+    "clicks": 25,
+    "cost": 50.17,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignb",
+    "campaign_name": "Campaign_B",
+    "date": "2025-09-11",
+    "impressions": 464,
+    "clicks": 22,
+    "cost": 49.26,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignc",
+    "campaign_name": "Campaign_C",
+    "date": "2025-09-11",
+    "impressions": 601,
+    "clicks": 12,
+    "cost": 12.03,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignd",
+    "campaign_name": "Campaign_D",
+    "date": "2025-09-11",
+    "impressions": 1853,
+    "clicks": 84,
+    "cost": 193.48,
+    "conversions": 4
+  },
+  {
+    "campaign_id": "cmp_campaigne",
+    "campaign_name": "Campaign_E",
+    "date": "2025-09-11",
+    "impressions": 1673,
+    "clicks": 37,
+    "cost": 117.95,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignf",
+    "campaign_name": "Campaign_F",
+    "date": "2025-09-11",
+    "impressions": 1789,
+    "clicks": 75,
+    "cost": 190.46,
+    "conversions": 4
+  },
+  {
+    "campaign_id": "cmp_campaigna",
+    "campaign_name": "Campaign_A",
+    "date": "2025-09-12",
+    "impressions": 1019,
+    "clicks": 39,
+    "cost": 143.24,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignb",
+    "campaign_name": "Campaign_B",
+    "date": "2025-09-12",
+    "impressions": 674,
+    "clicks": 19,
+    "cost": 42.82,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignc",
+    "campaign_name": "Campaign_C",
+    "date": "2025-09-12",
+    "impressions": 2547,
+    "clicks": 125,
+    "cost": 188.03,
+    "conversions": 4
+  },
+  {
+    "campaign_id": "cmp_campaignd",
+    "campaign_name": "Campaign_D",
+    "date": "2025-09-12",
+    "impressions": 1019,
+    "clicks": 37,
+    "cost": 81.67,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaigne",
+    "campaign_name": "Campaign_E",
+    "date": "2025-09-12",
+    "impressions": 1677,
+    "clicks": 67,
+    "cost": 95.17,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignf",
+    "campaign_name": "Campaign_F",
+    "date": "2025-09-12",
+    "impressions": 430,
+    "clicks": 20,
+    "cost": 26.46,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaigna",
+    "campaign_name": "Campaign_A",
+    "date": "2025-09-13",
+    "impressions": 3213,
+    "clicks": 150,
+    "cost": 134.75,
+    "conversions": 6
+  },
+  {
+    "campaign_id": "cmp_campaignb",
+    "campaign_name": "Campaign_B",
+    "date": "2025-09-13",
+    "impressions": 1746,
+    "clicks": 79,
+    "cost": 196.78,
+    "conversions": 3
+  },
+  {
+    "campaign_id": "cmp_campaignc",
+    "campaign_name": "Campaign_C",
+    "date": "2025-09-13",
+    "impressions": 1815,
+    "clicks": 48,
+    "cost": 122.17,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignd",
+    "campaign_name": "Campaign_D",
+    "date": "2025-09-13",
+    "impressions": 1142,
+    "clicks": 37,
+    "cost": 84.08,
+    "conversions": 2
+  },
+  {
+    "campaign_id": "cmp_campaigne",
+    "campaign_name": "Campaign_E",
+    "date": "2025-09-13",
+    "impressions": 2927,
+    "clicks": 123,
+    "cost": 201.44,
+    "conversions": 3
+  },
+  {
+    "campaign_id": "cmp_campaignf",
+    "campaign_name": "Campaign_F",
+    "date": "2025-09-13",
+    "impressions": 1853,
+    "clicks": 52,
+    "cost": 156.09,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaigna",
+    "campaign_name": "Campaign_A",
+    "date": "2025-09-14",
+    "impressions": 1511,
+    "clicks": 20,
+    "cost": 32.14,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignb",
+    "campaign_name": "Campaign_B",
+    "date": "2025-09-14",
+    "impressions": 1613,
+    "clicks": 32,
+    "cost": 63.99,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignc",
+    "campaign_name": "Campaign_C",
+    "date": "2025-09-14",
+    "impressions": 3309,
+    "clicks": 95,
+    "cost": 75.0,
+    "conversions": 3
+  },
+  {
+    "campaign_id": "cmp_campaignd",
+    "campaign_name": "Campaign_D",
+    "date": "2025-09-14",
+    "impressions": 1587,
+    "clicks": 24,
+    "cost": 51.8,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaigne",
+    "campaign_name": "Campaign_E",
+    "date": "2025-09-14",
+    "impressions": 2889,
+    "clicks": 134,
+    "cost": 284.13,
+    "conversions": 3
+  },
+  {
+    "campaign_id": "cmp_campaignf",
+    "campaign_name": "Campaign_F",
+    "date": "2025-09-14",
+    "impressions": 1282,
+    "clicks": 23,
+    "cost": 18.26,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaigna",
+    "campaign_name": "Campaign_A",
+    "date": "2025-09-15",
+    "impressions": 2135,
+    "clicks": 94,
+    "cost": 290.84,
+    "conversions": 2
+  },
+  {
+    "campaign_id": "cmp_campaignb",
+    "campaign_name": "Campaign_B",
+    "date": "2025-09-15",
+    "impressions": 455,
+    "clicks": 16,
+    "cost": 42.46,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignc",
+    "campaign_name": "Campaign_C",
+    "date": "2025-09-15",
+    "impressions": 3591,
+    "clicks": 177,
+    "cost": 576.82,
+    "conversions": 4
+  },
+  {
+    "campaign_id": "cmp_campaignd",
+    "campaign_name": "Campaign_D",
+    "date": "2025-09-15",
+    "impressions": 592,
+    "clicks": 7,
+    "cost": 23.39,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaigne",
+    "campaign_name": "Campaign_E",
+    "date": "2025-09-15",
+    "impressions": 1453,
+    "clicks": 37,
+    "cost": 107.16,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignf",
+    "campaign_name": "Campaign_F",
+    "date": "2025-09-15",
+    "impressions": 682,
+    "clicks": 16,
+    "cost": 53.86,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaigna",
+    "campaign_name": "Campaign_A",
+    "date": "2025-09-16",
+    "impressions": 982,
+    "clicks": 45,
+    "cost": 44.92,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignb",
+    "campaign_name": "Campaign_B",
+    "date": "2025-09-16",
+    "impressions": 1537,
+    "clicks": 70,
+    "cost": 108.01,
+    "conversions": 4
+  },
+  {
+    "campaign_id": "cmp_campaignc",
+    "campaign_name": "Campaign_C",
+    "date": "2025-09-16",
+    "impressions": 758,
+    "clicks": 9,
+    "cost": 31.46,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignd",
+    "campaign_name": "Campaign_D",
+    "date": "2025-09-16",
+    "impressions": 1012,
+    "clicks": 23,
+    "cost": 25.59,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaigne",
+    "campaign_name": "Campaign_E",
+    "date": "2025-09-16",
+    "impressions": 1373,
+    "clicks": 32,
+    "cost": 51.76,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignf",
+    "campaign_name": "Campaign_F",
+    "date": "2025-09-16",
+    "impressions": 2155,
+    "clicks": 31,
+    "cost": 69.29,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaigna",
+    "campaign_name": "Campaign_A",
+    "date": "2025-09-17",
+    "impressions": 2474,
+    "clicks": 68,
+    "cost": 113.7,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignb",
+    "campaign_name": "Campaign_B",
+    "date": "2025-09-17",
+    "impressions": 546,
+    "clicks": 23,
+    "cost": 50.21,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignc",
+    "campaign_name": "Campaign_C",
+    "date": "2025-09-17",
+    "impressions": 2572,
+    "clicks": 70,
+    "cost": 262.54,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignd",
+    "campaign_name": "Campaign_D",
+    "date": "2025-09-17",
+    "impressions": 1012,
+    "clicks": 19,
+    "cost": 39.55,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaigne",
+    "campaign_name": "Campaign_E",
+    "date": "2025-09-17",
+    "impressions": 2199,
+    "clicks": 41,
+    "cost": 51.86,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignf",
+    "campaign_name": "Campaign_F",
+    "date": "2025-09-17",
+    "impressions": 1668,
+    "clicks": 26,
+    "cost": 55.62,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaigna",
+    "campaign_name": "Campaign_A",
+    "date": "2025-09-18",
+    "impressions": 951,
+    "clicks": 28,
+    "cost": 72.83,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignb",
+    "campaign_name": "Campaign_B",
+    "date": "2025-09-18",
+    "impressions": 1799,
+    "clicks": 65,
+    "cost": 170.6,
+    "conversions": 2
+  },
+  {
+    "campaign_id": "cmp_campaignc",
+    "campaign_name": "Campaign_C",
+    "date": "2025-09-18",
+    "impressions": 941,
+    "clicks": 45,
+    "cost": 69.81,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignd",
+    "campaign_name": "Campaign_D",
+    "date": "2025-09-18",
+    "impressions": 943,
+    "clicks": 24,
+    "cost": 37.67,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaigne",
+    "campaign_name": "Campaign_E",
+    "date": "2025-09-18",
+    "impressions": 2228,
+    "clicks": 103,
+    "cost": 104.72,
+    "conversions": 3
+  },
+  {
+    "campaign_id": "cmp_campaignf",
+    "campaign_name": "Campaign_F",
+    "date": "2025-09-18",
+    "impressions": 1446,
+    "clicks": 23,
+    "cost": 66.05,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaigna",
+    "campaign_name": "Campaign_A",
+    "date": "2025-09-19",
+    "impressions": 2469,
+    "clicks": 82,
+    "cost": 192.59,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignb",
+    "campaign_name": "Campaign_B",
+    "date": "2025-09-19",
+    "impressions": 1173,
+    "clicks": 54,
+    "cost": 105.61,
+    "conversions": 2
+  },
+  {
+    "campaign_id": "cmp_campaignc",
+    "campaign_name": "Campaign_C",
+    "date": "2025-09-19",
+    "impressions": 1205,
+    "clicks": 38,
+    "cost": 103.96,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignd",
+    "campaign_name": "Campaign_D",
+    "date": "2025-09-19",
+    "impressions": 2435,
+    "clicks": 71,
+    "cost": 192.36,
+    "conversions": 5
+  },
+  {
+    "campaign_id": "cmp_campaigne",
+    "campaign_name": "Campaign_E",
+    "date": "2025-09-19",
+    "impressions": 2711,
+    "clicks": 75,
+    "cost": 197.7,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignf",
+    "campaign_name": "Campaign_F",
+    "date": "2025-09-19",
+    "impressions": 415,
+    "clicks": 6,
+    "cost": 6.6,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaigna",
+    "campaign_name": "Campaign_A",
+    "date": "2025-09-20",
+    "impressions": 3331,
+    "clicks": 135,
+    "cost": 438.67,
+    "conversions": 6
+  },
+  {
+    "campaign_id": "cmp_campaignb",
+    "campaign_name": "Campaign_B",
+    "date": "2025-09-20",
+    "impressions": 384,
+    "clicks": 13,
+    "cost": 27.29,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignc",
+    "campaign_name": "Campaign_C",
+    "date": "2025-09-20",
+    "impressions": 2573,
+    "clicks": 111,
+    "cost": 172.44,
+    "conversions": 3
+  },
+  {
+    "campaign_id": "cmp_campaignd",
+    "campaign_name": "Campaign_D",
+    "date": "2025-09-20",
+    "impressions": 1624,
+    "clicks": 65,
+    "cost": 64.25,
+    "conversions": 3
+  },
+  {
+    "campaign_id": "cmp_campaigne",
+    "campaign_name": "Campaign_E",
+    "date": "2025-09-20",
+    "impressions": 1116,
+    "clicks": 48,
+    "cost": 47.24,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignf",
+    "campaign_name": "Campaign_F",
+    "date": "2025-09-20",
+    "impressions": 1395,
+    "clicks": 29,
+    "cost": 46.44,
+    "conversions": 2
+  },
+  {
+    "campaign_id": "cmp_campaigna",
+    "campaign_name": "Campaign_A",
+    "date": "2025-09-21",
+    "impressions": 1804,
+    "clicks": 86,
+    "cost": 111.97,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignb",
+    "campaign_name": "Campaign_B",
+    "date": "2025-09-21",
+    "impressions": 1377,
+    "clicks": 38,
+    "cost": 117.67,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignc",
+    "campaign_name": "Campaign_C",
+    "date": "2025-09-21",
+    "impressions": 1366,
+    "clicks": 53,
+    "cost": 71.13,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignd",
+    "campaign_name": "Campaign_D",
+    "date": "2025-09-21",
+    "impressions": 1013,
+    "clicks": 20,
+    "cost": 34.76,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaigne",
+    "campaign_name": "Campaign_E",
+    "date": "2025-09-21",
+    "impressions": 3150,
+    "clicks": 43,
+    "cost": 58.72,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignf",
+    "campaign_name": "Campaign_F",
+    "date": "2025-09-21",
+    "impressions": 1315,
+    "clicks": 32,
+    "cost": 81.08,
+    "conversions": 2
+  },
+  {
+    "campaign_id": "cmp_campaigna",
+    "campaign_name": "Campaign_A",
+    "date": "2025-09-22",
+    "impressions": 2137,
+    "clicks": 37,
+    "cost": 105.24,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignb",
+    "campaign_name": "Campaign_B",
+    "date": "2025-09-22",
+    "impressions": 340,
+    "clicks": 7,
+    "cost": 14.04,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignc",
+    "campaign_name": "Campaign_C",
+    "date": "2025-09-22",
+    "impressions": 769,
+    "clicks": 32,
+    "cost": 92.54,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignd",
+    "campaign_name": "Campaign_D",
+    "date": "2025-09-22",
+    "impressions": 746,
+    "clicks": 33,
+    "cost": 107.49,
+    "conversions": 2
+  },
+  {
+    "campaign_id": "cmp_campaigne",
+    "campaign_name": "Campaign_E",
+    "date": "2025-09-22",
+    "impressions": 2308,
+    "clicks": 111,
+    "cost": 367.38,
+    "conversions": 2
+  },
+  {
+    "campaign_id": "cmp_campaignf",
+    "campaign_name": "Campaign_F",
+    "date": "2025-09-22",
+    "impressions": 1085,
+    "clicks": 37,
+    "cost": 85.34,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaigna",
+    "campaign_name": "Campaign_A",
+    "date": "2025-09-23",
+    "impressions": 2735,
+    "clicks": 62,
+    "cost": 168.16,
+    "conversions": 3
+  },
+  {
+    "campaign_id": "cmp_campaignb",
+    "campaign_name": "Campaign_B",
+    "date": "2025-09-23",
+    "impressions": 419,
+    "clicks": 14,
+    "cost": 34.17,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignc",
+    "campaign_name": "Campaign_C",
+    "date": "2025-09-23",
+    "impressions": 2844,
+    "clicks": 121,
+    "cost": 175.17,
+    "conversions": 3
+  },
+  {
+    "campaign_id": "cmp_campaignd",
+    "campaign_name": "Campaign_D",
+    "date": "2025-09-23",
+    "impressions": 1669,
+    "clicks": 49,
+    "cost": 167.9,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaigne",
+    "campaign_name": "Campaign_E",
+    "date": "2025-09-23",
+    "impressions": 629,
+    "clicks": 23,
+    "cost": 72.2,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignf",
+    "campaign_name": "Campaign_F",
+    "date": "2025-09-23",
+    "impressions": 1433,
+    "clicks": 46,
+    "cost": 111.39,
+    "conversions": 3
+  },
+  {
+    "campaign_id": "cmp_campaigna",
+    "campaign_name": "Campaign_A",
+    "date": "2025-09-24",
+    "impressions": 2934,
+    "clicks": 125,
+    "cost": 123.54,
+    "conversions": 2
+  },
+  {
+    "campaign_id": "cmp_campaignb",
+    "campaign_name": "Campaign_B",
+    "date": "2025-09-24",
+    "impressions": 331,
+    "clicks": 4,
+    "cost": 4.32,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignc",
+    "campaign_name": "Campaign_C",
+    "date": "2025-09-24",
+    "impressions": 2267,
+    "clicks": 45,
+    "cost": 168.42,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignd",
+    "campaign_name": "Campaign_D",
+    "date": "2025-09-24",
+    "impressions": 1138,
+    "clicks": 28,
+    "cost": 88.61,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaigne",
+    "campaign_name": "Campaign_E",
+    "date": "2025-09-24",
+    "impressions": 939,
+    "clicks": 9,
+    "cost": 27.38,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignf",
+    "campaign_name": "Campaign_F",
+    "date": "2025-09-24",
+    "impressions": 1508,
+    "clicks": 34,
+    "cost": 91.71,
+    "conversions": 2
+  },
+  {
+    "campaign_id": "cmp_campaigna",
+    "campaign_name": "Campaign_A",
+    "date": "2025-09-25",
+    "impressions": 2012,
+    "clicks": 59,
+    "cost": 184.22,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignb",
+    "campaign_name": "Campaign_B",
+    "date": "2025-09-25",
+    "impressions": 560,
+    "clicks": 27,
+    "cost": 81.2,
+    "conversions": 2
+  },
+  {
+    "campaign_id": "cmp_campaignc",
+    "campaign_name": "Campaign_C",
+    "date": "2025-09-25",
+    "impressions": 977,
+    "clicks": 24,
+    "cost": 69.63,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignd",
+    "campaign_name": "Campaign_D",
+    "date": "2025-09-25",
+    "impressions": 1334,
+    "clicks": 58,
+    "cost": 205.93,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaigne",
+    "campaign_name": "Campaign_E",
+    "date": "2025-09-25",
+    "impressions": 757,
+    "clicks": 26,
+    "cost": 59.9,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignf",
+    "campaign_name": "Campaign_F",
+    "date": "2025-09-25",
+    "impressions": 722,
+    "clicks": 19,
+    "cost": 50.96,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaigna",
+    "campaign_name": "Campaign_A",
+    "date": "2025-09-26",
+    "impressions": 820,
+    "clicks": 31,
+    "cost": 49.22,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignb",
+    "campaign_name": "Campaign_B",
+    "date": "2025-09-26",
+    "impressions": 890,
+    "clicks": 31,
+    "cost": 40.73,
+    "conversions": 2
+  },
+  {
+    "campaign_id": "cmp_campaignc",
+    "campaign_name": "Campaign_C",
+    "date": "2025-09-26",
+    "impressions": 3190,
+    "clicks": 43,
+    "cost": 73.17,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignd",
+    "campaign_name": "Campaign_D",
+    "date": "2025-09-26",
+    "impressions": 939,
+    "clicks": 24,
+    "cost": 32.21,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaigne",
+    "campaign_name": "Campaign_E",
+    "date": "2025-09-26",
+    "impressions": 1545,
+    "clicks": 50,
+    "cost": 75.58,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignf",
+    "campaign_name": "Campaign_F",
+    "date": "2025-09-26",
+    "impressions": 1305,
+    "clicks": 23,
+    "cost": 68.68,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaigna",
+    "campaign_name": "Campaign_A",
+    "date": "2025-09-27",
+    "impressions": 4498,
+    "clicks": 130,
+    "cost": 118.31,
+    "conversions": 6
+  },
+  {
+    "campaign_id": "cmp_campaignb",
+    "campaign_name": "Campaign_B",
+    "date": "2025-09-27",
+    "impressions": 453,
+    "clicks": 13,
+    "cost": 39.77,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignc",
+    "campaign_name": "Campaign_C",
+    "date": "2025-09-27",
+    "impressions": 1458,
+    "clicks": 28,
+    "cost": 83.91,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignd",
+    "campaign_name": "Campaign_D",
+    "date": "2025-09-27",
+    "impressions": 1638,
+    "clicks": 54,
+    "cost": 108.8,
+    "conversions": 4
+  },
+  {
+    "campaign_id": "cmp_campaigne",
+    "campaign_name": "Campaign_E",
+    "date": "2025-09-27",
+    "impressions": 1878,
+    "clicks": 51,
+    "cost": 175.85,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignf",
+    "campaign_name": "Campaign_F",
+    "date": "2025-09-27",
+    "impressions": 1493,
+    "clicks": 28,
+    "cost": 65.91,
+    "conversions": 2
+  },
+  {
+    "campaign_id": "cmp_campaigna",
+    "campaign_name": "Campaign_A",
+    "date": "2025-09-28",
+    "impressions": 3195,
+    "clicks": 155,
+    "cost": 476.93,
+    "conversions": 5
+  },
+  {
+    "campaign_id": "cmp_campaignb",
+    "campaign_name": "Campaign_B",
+    "date": "2025-09-28",
+    "impressions": 896,
+    "clicks": 33,
+    "cost": 68.41,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignc",
+    "campaign_name": "Campaign_C",
+    "date": "2025-09-28",
+    "impressions": 754,
+    "clicks": 10,
+    "cost": 19.86,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignd",
+    "campaign_name": "Campaign_D",
+    "date": "2025-09-28",
+    "impressions": 2288,
+    "clicks": 29,
+    "cost": 25.93,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaigne",
+    "campaign_name": "Campaign_E",
+    "date": "2025-09-28",
+    "impressions": 2102,
+    "clicks": 38,
+    "cost": 102.79,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignf",
+    "campaign_name": "Campaign_F",
+    "date": "2025-09-28",
+    "impressions": 737,
+    "clicks": 19,
+    "cost": 55.47,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaigna",
+    "campaign_name": "Campaign_A",
+    "date": "2025-09-29",
+    "impressions": 2497,
+    "clicks": 89,
+    "cost": 119.34,
+    "conversions": 4
+  },
+  {
+    "campaign_id": "cmp_campaignb",
+    "campaign_name": "Campaign_B",
+    "date": "2025-09-29",
+    "impressions": 1001,
+    "clicks": 40,
+    "cost": 39.76,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignc",
+    "campaign_name": "Campaign_C",
+    "date": "2025-09-29",
+    "impressions": 3175,
+    "clicks": 155,
+    "cost": 305.65,
+    "conversions": 2
+  },
+  {
+    "campaign_id": "cmp_campaignd",
+    "campaign_name": "Campaign_D",
+    "date": "2025-09-29",
+    "impressions": 649,
+    "clicks": 11,
+    "cost": 25.07,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaigne",
+    "campaign_name": "Campaign_E",
+    "date": "2025-09-29",
+    "impressions": 2499,
+    "clicks": 95,
+    "cost": 139.99,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignf",
+    "campaign_name": "Campaign_F",
+    "date": "2025-09-29",
+    "impressions": 1732,
+    "clicks": 75,
+    "cost": 167.74,
+    "conversions": 3
+  },
+  {
+    "campaign_id": "cmp_campaigna",
+    "campaign_name": "Campaign_A",
+    "date": "2025-09-30",
+    "impressions": 3053,
+    "clicks": 121,
+    "cost": 111.83,
+    "conversions": 2
+  },
+  {
+    "campaign_id": "cmp_campaignb",
+    "campaign_name": "Campaign_B",
+    "date": "2025-09-30",
+    "impressions": 763,
+    "clicks": 26,
+    "cost": 44.11,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignc",
+    "campaign_name": "Campaign_C",
+    "date": "2025-09-30",
+    "impressions": 2677,
+    "clicks": 110,
+    "cost": 209.3,
+    "conversions": 2
+  },
+  {
+    "campaign_id": "cmp_campaignd",
+    "campaign_name": "Campaign_D",
+    "date": "2025-09-30",
+    "impressions": 894,
+    "clicks": 14,
+    "cost": 35.04,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaigne",
+    "campaign_name": "Campaign_E",
+    "date": "2025-09-30",
+    "impressions": 984,
+    "clicks": 15,
+    "cost": 31.66,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignf",
+    "campaign_name": "Campaign_F",
+    "date": "2025-09-30",
+    "impressions": 577,
+    "clicks": 18,
+    "cost": 43.12,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaigna",
+    "campaign_name": "Campaign_A",
+    "date": "2025-10-01",
+    "impressions": 3960,
+    "clicks": 76,
+    "cost": 107.2,
+    "conversions": 3
+  },
+  {
+    "campaign_id": "cmp_campaignb",
+    "campaign_name": "Campaign_B",
+    "date": "2025-10-01",
+    "impressions": 461,
+    "clicks": 15,
+    "cost": 49.4,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignc",
+    "campaign_name": "Campaign_C",
+    "date": "2025-10-01",
+    "impressions": 1506,
+    "clicks": 51,
+    "cost": 167.42,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignd",
+    "campaign_name": "Campaign_D",
+    "date": "2025-10-01",
+    "impressions": 1787,
+    "clicks": 27,
+    "cost": 22.34,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaigne",
+    "campaign_name": "Campaign_E",
+    "date": "2025-10-01",
+    "impressions": 2766,
+    "clicks": 54,
+    "cost": 100.98,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignf",
+    "campaign_name": "Campaign_F",
+    "date": "2025-10-01",
+    "impressions": 440,
+    "clicks": 12,
+    "cost": 36.15,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaigna",
+    "campaign_name": "Campaign_A",
+    "date": "2025-10-02",
+    "impressions": 2847,
+    "clicks": 29,
+    "cost": 69.07,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignb",
+    "campaign_name": "Campaign_B",
+    "date": "2025-10-02",
+    "impressions": 825,
+    "clicks": 9,
+    "cost": 19.81,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignc",
+    "campaign_name": "Campaign_C",
+    "date": "2025-10-02",
+    "impressions": 1238,
+    "clicks": 45,
+    "cost": 142.54,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignd",
+    "campaign_name": "Campaign_D",
+    "date": "2025-10-02",
+    "impressions": 2519,
+    "clicks": 33,
+    "cost": 88.86,
+    "conversions": 2
+  },
+  {
+    "campaign_id": "cmp_campaigne",
+    "campaign_name": "Campaign_E",
+    "date": "2025-10-02",
+    "impressions": 985,
+    "clicks": 12,
+    "cost": 34.31,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignf",
+    "campaign_name": "Campaign_F",
+    "date": "2025-10-02",
+    "impressions": 1412,
+    "clicks": 61,
+    "cost": 86.54,
+    "conversions": 5
+  },
+  {
+    "campaign_id": "cmp_campaigna",
+    "campaign_name": "Campaign_A",
+    "date": "2025-10-03",
+    "impressions": 3671,
+    "clicks": 51,
+    "cost": 117.44,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignb",
+    "campaign_name": "Campaign_B",
+    "date": "2025-10-03",
+    "impressions": 456,
+    "clicks": 16,
+    "cost": 47.14,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignc",
+    "campaign_name": "Campaign_C",
+    "date": "2025-10-03",
+    "impressions": 2645,
+    "clicks": 51,
+    "cost": 81.76,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignd",
+    "campaign_name": "Campaign_D",
+    "date": "2025-10-03",
+    "impressions": 1377,
+    "clicks": 49,
+    "cost": 130.59,
+    "conversions": 3
+  },
+  {
+    "campaign_id": "cmp_campaigne",
+    "campaign_name": "Campaign_E",
+    "date": "2025-10-03",
+    "impressions": 1253,
+    "clicks": 33,
+    "cost": 94.45,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignf",
+    "campaign_name": "Campaign_F",
+    "date": "2025-10-03",
+    "impressions": 692,
+    "clicks": 24,
+    "cost": 61.94,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaigna",
+    "campaign_name": "Campaign_A",
+    "date": "2025-10-04",
+    "impressions": 1730,
+    "clicks": 51,
+    "cost": 148.1,
+    "conversions": 2
+  },
+  {
+    "campaign_id": "cmp_campaignb",
+    "campaign_name": "Campaign_B",
+    "date": "2025-10-04",
+    "impressions": 1163,
+    "clicks": 35,
+    "cost": 50.7,
+    "conversions": 2
+  },
+  {
+    "campaign_id": "cmp_campaignc",
+    "campaign_name": "Campaign_C",
+    "date": "2025-10-04",
+    "impressions": 3451,
+    "clicks": 159,
+    "cost": 525.65,
+    "conversions": 2
+  },
+  {
+    "campaign_id": "cmp_campaignd",
+    "campaign_name": "Campaign_D",
+    "date": "2025-10-04",
+    "impressions": 2651,
+    "clicks": 37,
+    "cost": 82.91,
+    "conversions": 2
+  },
+  {
+    "campaign_id": "cmp_campaigne",
+    "campaign_name": "Campaign_E",
+    "date": "2025-10-04",
+    "impressions": 2018,
+    "clicks": 57,
+    "cost": 49.14,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignf",
+    "campaign_name": "Campaign_F",
+    "date": "2025-10-04",
+    "impressions": 523,
+    "clicks": 19,
+    "cost": 20.24,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaigna",
+    "campaign_name": "Campaign_A",
+    "date": "2025-10-05",
+    "impressions": 3096,
+    "clicks": 108,
+    "cost": 260.28,
+    "conversions": 4
+  },
+  {
+    "campaign_id": "cmp_campaignb",
+    "campaign_name": "Campaign_B",
+    "date": "2025-10-05",
+    "impressions": 1228,
+    "clicks": 19,
+    "cost": 21.59,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignc",
+    "campaign_name": "Campaign_C",
+    "date": "2025-10-05",
+    "impressions": 1605,
+    "clicks": 47,
+    "cost": 148.61,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignd",
+    "campaign_name": "Campaign_D",
+    "date": "2025-10-05",
+    "impressions": 2424,
+    "clicks": 65,
+    "cost": 163.9,
+    "conversions": 5
+  },
+  {
+    "campaign_id": "cmp_campaigne",
+    "campaign_name": "Campaign_E",
+    "date": "2025-10-05",
+    "impressions": 3109,
+    "clicks": 59,
+    "cost": 61.59,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignf",
+    "campaign_name": "Campaign_F",
+    "date": "2025-10-05",
+    "impressions": 443,
+    "clicks": 17,
+    "cost": 24.07,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaigna",
+    "campaign_name": "Campaign_A",
+    "date": "2025-10-06",
+    "impressions": 2452,
+    "clicks": 35,
+    "cost": 110.88,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignb",
+    "campaign_name": "Campaign_B",
+    "date": "2025-10-06",
+    "impressions": 505,
+    "clicks": 8,
+    "cost": 18.72,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignc",
+    "campaign_name": "Campaign_C",
+    "date": "2025-10-06",
+    "impressions": 797,
+    "clicks": 30,
+    "cost": 72.82,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignd",
+    "campaign_name": "Campaign_D",
+    "date": "2025-10-06",
+    "impressions": 2455,
+    "clicks": 87,
+    "cost": 216.79,
+    "conversions": 3
+  },
+  {
+    "campaign_id": "cmp_campaigne",
+    "campaign_name": "Campaign_E",
+    "date": "2025-10-06",
+    "impressions": 1762,
+    "clicks": 39,
+    "cost": 56.99,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignf",
+    "campaign_name": "Campaign_F",
+    "date": "2025-10-06",
+    "impressions": 1651,
+    "clicks": 80,
+    "cost": 206.13,
+    "conversions": 3
+  },
+  {
+    "campaign_id": "cmp_campaigna",
+    "campaign_name": "Campaign_A",
+    "date": "2025-10-07",
+    "impressions": 1294,
+    "clicks": 47,
+    "cost": 46.85,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignb",
+    "campaign_name": "Campaign_B",
+    "date": "2025-10-07",
+    "impressions": 904,
+    "clicks": 26,
+    "cost": 56.94,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignc",
+    "campaign_name": "Campaign_C",
+    "date": "2025-10-07",
+    "impressions": 1186,
+    "clicks": 21,
+    "cost": 20.47,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignd",
+    "campaign_name": "Campaign_D",
+    "date": "2025-10-07",
+    "impressions": 896,
+    "clicks": 42,
+    "cost": 36.1,
+    "conversions": 2
+  },
+  {
+    "campaign_id": "cmp_campaigne",
+    "campaign_name": "Campaign_E",
+    "date": "2025-10-07",
+    "impressions": 706,
+    "clicks": 31,
+    "cost": 61.33,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignf",
+    "campaign_name": "Campaign_F",
+    "date": "2025-10-07",
+    "impressions": 1436,
+    "clicks": 44,
+    "cost": 82.07,
+    "conversions": 3
+  },
+  {
+    "campaign_id": "cmp_campaigna",
+    "campaign_name": "Campaign_A",
+    "date": "2025-10-08",
+    "impressions": 875,
+    "clicks": 17,
+    "cost": 35.09,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignb",
+    "campaign_name": "Campaign_B",
+    "date": "2025-10-08",
+    "impressions": 556,
+    "clicks": 9,
+    "cost": 8.65,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignc",
+    "campaign_name": "Campaign_C",
+    "date": "2025-10-08",
+    "impressions": 2617,
+    "clicks": 72,
+    "cost": 66.82,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignd",
+    "campaign_name": "Campaign_D",
+    "date": "2025-10-08",
+    "impressions": 2318,
+    "clicks": 27,
+    "cost": 82.09,
+    "conversions": 2
+  },
+  {
+    "campaign_id": "cmp_campaigne",
+    "campaign_name": "Campaign_E",
+    "date": "2025-10-08",
+    "impressions": 929,
+    "clicks": 40,
+    "cost": 38.74,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignf",
+    "campaign_name": "Campaign_F",
+    "date": "2025-10-08",
+    "impressions": 1918,
+    "clicks": 32,
+    "cost": 68.2,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaigna",
+    "campaign_name": "Campaign_A",
+    "date": "2025-10-09",
+    "impressions": 1854,
+    "clicks": 61,
+    "cost": 122.2,
+    "conversions": 2
+  },
+  {
+    "campaign_id": "cmp_campaignb",
+    "campaign_name": "Campaign_B",
+    "date": "2025-10-09",
+    "impressions": 697,
+    "clicks": 25,
+    "cost": 32.34,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignc",
+    "campaign_name": "Campaign_C",
+    "date": "2025-10-09",
+    "impressions": 3236,
+    "clicks": 152,
+    "cost": 374.62,
+    "conversions": 3
+  },
+  {
+    "campaign_id": "cmp_campaignd",
+    "campaign_name": "Campaign_D",
+    "date": "2025-10-09",
+    "impressions": 2614,
+    "clicks": 79,
+    "cost": 65.08,
+    "conversions": 3
+  },
+  {
+    "campaign_id": "cmp_campaigne",
+    "campaign_name": "Campaign_E",
+    "date": "2025-10-09",
+    "impressions": 1769,
+    "clicks": 62,
+    "cost": 166.05,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignf",
+    "campaign_name": "Campaign_F",
+    "date": "2025-10-09",
+    "impressions": 842,
+    "clicks": 27,
+    "cost": 58.9,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaigna",
+    "campaign_name": "Campaign_A",
+    "date": "2025-10-10",
+    "impressions": 3762,
+    "clicks": 140,
+    "cost": 173.01,
+    "conversions": 2
+  },
+  {
+    "campaign_id": "cmp_campaignb",
+    "campaign_name": "Campaign_B",
+    "date": "2025-10-10",
+    "impressions": 1675,
+    "clicks": 72,
+    "cost": 181.7,
+    "conversions": 3
+  },
+  {
+    "campaign_id": "cmp_campaignc",
+    "campaign_name": "Campaign_C",
+    "date": "2025-10-10",
+    "impressions": 2667,
+    "clicks": 58,
+    "cost": 75.39,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignd",
+    "campaign_name": "Campaign_D",
+    "date": "2025-10-10",
+    "impressions": 996,
+    "clicks": 41,
+    "cost": 102.84,
+    "conversions": 2
+  },
+  {
+    "campaign_id": "cmp_campaigne",
+    "campaign_name": "Campaing_E",
+    "date": "2025-10-10",
+    "impressions": 2179,
+    "clicks": 39,
+    "cost": 57.91,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignf",
+    "campaign_name": "Campaign_F",
+    "date": "2025-10-10",
+    "impressions": 1899,
+    "clicks": 40,
+    "cost": 59.52,
+    "conversions": 2
+  },
+  {
+    "campaign_id": "cmp_campaigna",
+    "campaign_name": "Campaign_A",
+    "date": "2025-10-11",
+    "impressions": 2644,
+    "clicks": 45,
+    "cost": 114.74,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignb",
+    "campaign_name": "Campaign_B",
+    "date": "2025-10-11",
+    "impressions": 829,
+    "clicks": 17,
+    "cost": 37.78,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignc",
+    "campaign_name": "Campaign_C",
+    "date": "2025-10-11",
+    "impressions": 2625,
+    "clicks": 39,
+    "cost": 110.31,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignd",
+    "campaign_name": "Campaign_D",
+    "date": "2025-10-11",
+    "impressions": 1271,
+    "clicks": 61,
+    "cost": 118.07,
+    "conversions": 2
+  },
+  {
+    "campaign_id": "cmp_campaigne",
+    "campaign_name": "Campaign_E",
+    "date": "2025-10-11",
+    "impressions": 2894,
+    "clicks": 125,
+    "cost": 400.62,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignf",
+    "campaign_name": "Campaign_F",
+    "date": "2025-10-11",
+    "impressions": 1362,
+    "clicks": 59,
+    "cost": 125.12,
+    "conversions": 3
+  },
+  {
+    "campaign_id": "cmp_campaigna",
+    "campaign_name": "Campaign_A",
+    "date": "2025-10-12",
+    "impressions": 1150,
+    "clicks": 32,
+    "cost": 94.26,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignb",
+    "campaign_name": "Campaign_B",
+    "date": "2025-10-12",
+    "impressions": 1263,
+    "clicks": 62,
+    "cost": 59.33,
+    "conversions": 3
+  },
+  {
+    "campaign_id": "cmp_campaignc",
+    "campaign_name": "Campaign_C",
+    "date": "2025-10-12",
+    "impressions": 2021,
+    "clicks": 53,
+    "cost": 112.44,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignd",
+    "campaign_name": "Campaign_D",
+    "date": "2025-10-12",
+    "impressions": 1393,
+    "clicks": 60,
+    "cost": 213.23,
+    "conversions": 3
+  },
+  {
+    "campaign_id": "cmp_campaigne",
+    "campaign_name": "Campaign_E",
+    "date": "2025-10-12",
+    "impressions": 3140,
+    "clicks": 149,
+    "cost": 477.91,
+    "conversions": 4
+  },
+  {
+    "campaign_id": "cmp_campaignf",
+    "campaign_name": "Campaign_F",
+    "date": "2025-10-12",
+    "impressions": 1658,
+    "clicks": 20,
+    "cost": 60.95,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaigna",
+    "campaign_name": "Campaign_A",
+    "date": "2025-10-13",
+    "impressions": 1116,
+    "clicks": 47,
+    "cost": 80.14,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignb",
+    "campaign_name": "Campaign_B",
+    "date": "2025-10-13",
+    "impressions": 1487,
+    "clicks": 68,
+    "cost": 204.27,
+    "conversions": 3
+  },
+  {
+    "campaign_id": "cmp_campaignc",
+    "campaign_name": "Campaign_C",
+    "date": "2025-10-13",
+    "impressions": 2736,
+    "clicks": 110,
+    "cost": 127.41,
+    "conversions": 3
+  },
+  {
+    "campaign_id": "cmp_campaignd",
+    "campaign_name": "Campaign_D",
+    "date": "2025-10-13",
+    "impressions": 1277,
+    "clicks": 17,
+    "cost": 17.57,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaigne",
+    "campaign_name": "Campaign_E",
+    "date": "2025-10-13",
+    "impressions": 793,
+    "clicks": 20,
+    "cost": 23.65,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignf",
+    "campaign_name": "Campaign_F",
+    "date": "2025-10-13",
+    "impressions": 1160,
+    "clicks": 29,
+    "cost": 30.21,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaigna",
+    "campaign_name": "Campaign_A",
+    "date": "2025-10-14",
+    "impressions": 3816,
+    "clicks": 41,
+    "cost": 104.17,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignb",
+    "campaign_name": "Campaign_B",
+    "date": "2025-10-14",
+    "impressions": 405,
+    "clicks": 7,
+    "cost": 14.0,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignc",
+    "campaign_name": "Campaign_C",
+    "date": "2025-10-14",
+    "impressions": 1203,
+    "clicks": 12,
+    "cost": 16.06,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignd",
+    "campaign_name": "Campaign_D",
+    "date": "2025-10-14",
+    "impressions": 2359,
+    "clicks": 110,
+    "cost": 243.24,
+    "conversions": 7
+  },
+  {
+    "campaign_id": "cmp_campaigne",
+    "campaign_name": "Campaign_E",
+    "date": "2025-10-14",
+    "impressions": 1112,
+    "clicks": 53,
+    "cost": 128.02,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignf",
+    "campaign_name": "Campaign_F",
+    "date": "2025-10-14",
+    "impressions": 670,
+    "clicks": 16,
+    "cost": 28.08,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaigna",
+    "campaign_name": "Campaign_A",
+    "date": "2025-10-15",
+    "impressions": 2170,
+    "clicks": 62,
+    "cost": 104.7,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignb",
+    "campaign_name": "Campaign_B",
+    "date": "2025-10-15",
+    "impressions": 1207,
+    "clicks": 50,
+    "cost": 60.11,
+    "conversions": 4
+  },
+  {
+    "campaign_id": "cmp_campaignc",
+    "campaign_name": "Campaign_C",
+    "date": "2025-10-15",
+    "impressions": 2178,
+    "clicks": 76,
+    "cost": 130.29,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignd",
+    "campaign_name": "Campaign_D",
+    "date": "2025-10-15",
+    "impressions": 2178,
+    "clicks": 23,
+    "cost": 41.79,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaigne",
+    "campaign_name": "Campaign_E",
+    "date": "2025-10-15",
+    "impressions": 1636,
+    "clicks": 44,
+    "cost": 81.25,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignf",
+    "campaign_name": "Campaign_F",
+    "date": "2025-10-15",
+    "impressions": 1367,
+    "clicks": 27,
+    "cost": 53.26,
+    "conversions": 2
+  },
+  {
+    "campaign_id": "cmp_campaigna",
+    "campaign_name": "Campaign_A",
+    "date": "2025-10-16",
+    "impressions": 2446,
+    "clicks": 42,
+    "cost": 133.27,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignb",
+    "campaign_name": "Campaign_B",
+    "date": "2025-10-16",
+    "impressions": 397,
+    "clicks": 18,
+    "cost": 15.51,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignc",
+    "campaign_name": "Campaign_C",
+    "date": "2025-10-16",
+    "impressions": 3235,
+    "clicks": 69,
+    "cost": 115.73,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignd",
+    "campaign_name": "Campaign_D",
+    "date": "2025-10-16",
+    "impressions": 802,
+    "clicks": 28,
+    "cost": 41.33,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaigne",
+    "campaign_name": "Campaign_E",
+    "date": "2025-10-16",
+    "impressions": 2385,
+    "clicks": 30,
+    "cost": 97.26,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignf",
+    "campaign_name": "Campaign_F",
+    "date": "2025-10-16",
+    "impressions": 932,
+    "clicks": 17,
+    "cost": 48.58,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaigna",
+    "campaign_name": "Campaign_A",
+    "date": "2025-10-17",
+    "impressions": 1923,
+    "clicks": 42,
+    "cost": 104.47,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignb",
+    "campaign_name": "Campaign_B",
+    "date": "2025-10-17",
+    "impressions": 976,
+    "clicks": 44,
+    "cost": 60.08,
+    "conversions": 2
+  },
+  {
+    "campaign_id": "cmp_campaignc",
+    "campaign_name": "Campaign_C",
+    "date": "2025-10-17",
+    "impressions": 690,
+    "clicks": 34,
+    "cost": 64.09,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignd",
+    "campaign_name": "Campaign_D",
+    "date": "2025-10-17",
+    "impressions": 2202,
+    "clicks": 103,
+    "cost": 212.5,
+    "conversions": 7
+  },
+  {
+    "campaign_id": "cmp_campaigne",
+    "campaign_name": "Campaign_E",
+    "date": "2025-10-17",
+    "impressions": 3051,
+    "clicks": 99,
+    "cost": 214.22,
+    "conversions": 2
+  },
+  {
+    "campaign_id": "cmp_campaignf",
+    "campaign_name": "Campaign_F",
+    "date": "2025-10-17",
+    "impressions": 660,
+    "clicks": 29,
+    "cost": 96.08,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaigna",
+    "campaign_name": "Campaign_A",
+    "date": "2025-10-18",
+    "impressions": 3633,
+    "clicks": 94,
+    "cost": 97.38,
+    "conversions": 4
+  },
+  {
+    "campaign_id": "cmp_campaignb",
+    "campaign_name": "Campaign_B",
+    "date": "2025-10-18",
+    "impressions": 1197,
+    "clicks": 55,
+    "cost": 92.45,
+    "conversions": 2
+  },
+  {
+    "campaign_id": "cmp_campaignc",
+    "campaign_name": "Campaign_C",
+    "date": "2025-10-18",
+    "impressions": 3303,
+    "clicks": 42,
+    "cost": 141.21,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignd",
+    "campaign_name": "Campaign_D",
+    "date": "2025-10-18",
+    "impressions": 2504,
+    "clicks": 85,
+    "cost": 142.93,
+    "conversions": 5
+  },
+  {
+    "campaign_id": "cmp_campaigne",
+    "campaign_name": "Campaign_E",
+    "date": "2025-10-18",
+    "impressions": 922,
+    "clicks": 41,
+    "cost": 83.52,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignf",
+    "campaign_name": "Campaign_F",
+    "date": "2025-10-18",
+    "impressions": 402,
+    "clicks": 17,
+    "cost": 44.94,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaigna",
+    "campaign_name": "Campaign_A",
+    "date": "2025-10-19",
+    "impressions": 2076,
+    "clicks": 38,
+    "cost": 102.28,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignb",
+    "campaign_name": "Campaign_B",
+    "date": "2025-10-19",
+    "impressions": 773,
+    "clicks": 8,
+    "cost": 17.97,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignc",
+    "campaign_name": "Campaign_C",
+    "date": "2025-10-19",
+    "impressions": 2083,
+    "clicks": 102,
+    "cost": 141.18,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignd",
+    "campaign_name": "Campaign_D",
+    "date": "2025-10-19",
+    "impressions": 1166,
+    "clicks": 35,
+    "cost": 76.09,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaigne",
+    "campaign_name": "Campaign_E",
+    "date": "2025-10-19",
+    "impressions": 2176,
+    "clicks": 86,
+    "cost": 220.51,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignf",
+    "campaign_name": "Campaign_F",
+    "date": "2025-10-19",
+    "impressions": 1532,
+    "clicks": 39,
+    "cost": 35.32,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaigna",
+    "campaign_name": "Campaign_A",
+    "date": "2025-10-20",
+    "impressions": 4309,
+    "clicks": 139,
+    "cost": 383.18,
+    "conversions": 3
+  },
+  {
+    "campaign_id": "cmp_campaignb",
+    "campaign_name": "Campaign_B",
+    "date": "2025-10-20",
+    "impressions": 946,
+    "clicks": 25,
+    "cost": 82.85,
+    "conversions": 2
+  },
+  {
+    "campaign_id": "cmp_campaignc",
+    "campaign_name": "Campaign_C",
+    "date": "2025-10-20",
+    "impressions": 2885,
+    "clicks": 75,
+    "cost": 120.57,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignd",
+    "campaign_name": "Campaign_D",
+    "date": "2025-10-20",
+    "impressions": 1552,
+    "clicks": 73,
+    "cost": 97.59,
+    "conversions": 4
+  },
+  {
+    "campaign_id": "cmp_campaigne",
+    "campaign_name": "Campaign_E",
+    "date": "2025-10-20",
+    "impressions": 2916,
+    "clicks": 104,
+    "cost": 339.39,
+    "conversions": 2
+  },
+  {
+    "campaign_id": "cmp_campaignf",
+    "campaign_name": "Campaign_F",
+    "date": "2025-10-20",
+    "impressions": 971,
+    "clicks": 16,
+    "cost": 35.87,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaigna",
+    "campaign_name": "Campaign_A",
+    "date": "2025-10-21",
+    "impressions": 1272,
+    "clicks": 39,
+    "cost": 137.15,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignb",
+    "campaign_name": "Campaign_B",
+    "date": "2025-10-21",
+    "impressions": 839,
+    "clicks": 28,
+    "cost": 43.12,
+    "conversions": 2
+  },
+  {
+    "campaign_id": "cmp_campaignc",
+    "campaign_name": "Campaign_C",
+    "date": "2025-10-21",
+    "impressions": 3449,
+    "clicks": 136,
+    "cost": 173.1,
+    "conversions": 2
+  },
+  {
+    "campaign_id": "cmp_campaignd",
+    "campaign_name": "Campaign_D",
+    "date": "2025-10-21",
+    "impressions": 2650,
+    "clicks": 84,
+    "cost": 240.43,
+    "conversions": 2
+  },
+  {
+    "campaign_id": "cmp_campaigne",
+    "campaign_name": "Campaign_E",
+    "date": "2025-10-21",
+    "impressions": 1474,
+    "clicks": 43,
+    "cost": 71.63,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignf",
+    "campaign_name": "Campaign_F",
+    "date": "2025-10-21",
+    "impressions": 1394,
+    "clicks": 15,
+    "cost": 29.51,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaigna",
+    "campaign_name": "Campaign_A",
+    "date": "2025-10-22",
+    "impressions": 2755,
+    "clicks": 62,
+    "cost": 176.77,
+    "conversions": 2
+  },
+  {
+    "campaign_id": "cmp_campaignb",
+    "campaign_name": "Campaign_B",
+    "date": "2025-10-22",
+    "impressions": 1755,
+    "clicks": 83,
+    "cost": 74.95,
+    "conversions": 7
+  },
+  {
+    "campaign_id": "cmp_campaignc",
+    "campaign_name": "Campaign_C",
+    "date": "2025-10-22",
+    "impressions": 2711,
+    "clicks": 35,
+    "cost": 80.44,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignd",
+    "campaign_name": "Campaign_D",
+    "date": "2025-10-22",
+    "impressions": 2613,
+    "clicks": 121,
+    "cost": 93.0,
+    "conversions": 7
+  },
+  {
+    "campaign_id": "cmp_campaigne",
+    "campaign_name": "Campaign_E",
+    "date": "2025-10-22",
+    "impressions": 2245,
+    "clicks": 39,
+    "cost": 105.92,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignf",
+    "campaign_name": "Campaign_F",
+    "date": "2025-10-22",
+    "impressions": 1817,
+    "clicks": 33,
+    "cost": 99.35,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaigna",
+    "campaign_name": "Campaign_A",
+    "date": "2025-10-23",
+    "impressions": 2366,
+    "clicks": 64,
+    "cost": 87.18,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignb",
+    "campaign_name": "Campaign_B",
+    "date": "2025-10-23",
+    "impressions": 705,
+    "clicks": 28,
+    "cost": 34.51,
+    "conversions": 2
+  },
+  {
+    "campaign_id": "cmp_campaignc",
+    "campaign_name": "Campaign_C",
+    "date": "2025-10-23",
+    "impressions": 1212,
+    "clicks": 38,
+    "cost": 34.08,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignd",
+    "campaign_name": "Campaign_D",
+    "date": "2025-10-23",
+    "impressions": 1413,
+    "clicks": 37,
+    "cost": 59.25,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaigne",
+    "campaign_name": "Campaign_E",
+    "date": "2025-10-23",
+    "impressions": 2033,
+    "clicks": 26,
+    "cost": 65.63,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignf",
+    "campaign_name": "Campaign_F",
+    "date": "2025-10-23",
+    "impressions": 1510,
+    "clicks": 44,
+    "cost": 114.01,
+    "conversions": 2
+  },
+  {
+    "campaign_id": "cmp_campaigna",
+    "campaign_name": "Campaign_A",
+    "date": "2025-10-24",
+    "impressions": 1703,
+    "clicks": 23,
+    "cost": 43.22,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignb",
+    "campaign_name": "Campaign_B",
+    "date": "2025-10-24",
+    "impressions": 319,
+    "clicks": 9,
+    "cost": 12.74,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignc",
+    "campaign_name": "Campaign_C",
+    "date": "2025-10-24",
+    "impressions": 2180,
+    "clicks": 87,
+    "cost": 170.42,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignd",
+    "campaign_name": "Campaign_D",
+    "date": "2025-10-24",
+    "impressions": 599,
+    "clicks": 11,
+    "cost": 19.7,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaigne",
+    "campaign_name": "Campaign_E",
+    "date": "2025-10-24",
+    "impressions": 555,
+    "clicks": 16,
+    "cost": 29.9,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignf",
+    "campaign_name": "Campaign_F",
+    "date": "2025-10-24",
+    "impressions": 550,
+    "clicks": 19,
+    "cost": 32.35,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaigna",
+    "campaign_name": "Campaign_A",
+    "date": "2025-10-25",
+    "impressions": 1261,
+    "clicks": 31,
+    "cost": 106.78,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignb",
+    "campaign_name": "Campaign_B",
+    "date": "2025-10-25",
+    "impressions": 1383,
+    "clicks": 23,
+    "cost": 19.59,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignc",
+    "campaign_name": "Campain_C",
+    "date": "2025-10-25",
+    "impressions": 1904,
+    "clicks": 70,
+    "cost": 185.07,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignd",
+    "campaign_name": "Campaign_D",
+    "date": "2025-10-25",
+    "impressions": 1900,
+    "clicks": 58,
+    "cost": 175.75,
+    "conversions": 3
+  },
+  {
+    "campaign_id": "cmp_campaigne",
+    "campaign_name": "Campaign_E",
+    "date": "2025-10-25",
+    "impressions": 1632,
+    "clicks": 64,
+    "cost": 110.6,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignf",
+    "campaign_name": "Campaign_F",
+    "date": "2025-10-25",
+    "impressions": 1293,
+    "clicks": 43,
+    "cost": 119.39,
+    "conversions": 3
+  },
+  {
+    "campaign_id": "cmp_campaigna",
+    "campaign_name": "Campaign_A",
+    "date": "2025-10-26",
+    "impressions": 2864,
+    "clicks": 109,
+    "cost": 122.32,
+    "conversions": 2
+  },
+  {
+    "campaign_id": "cmp_campaignb",
+    "campaign_name": "Campaign_B",
+    "date": "2025-10-26",
+    "impressions": 678,
+    "clicks": 33,
+    "cost": 80.88,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignc",
+    "campaign_name": "Campaign_C",
+    "date": "2025-10-26",
+    "impressions": 2372,
+    "clicks": 24,
+    "cost": 75.5,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignd",
+    "campaign_name": "Campaign_D",
+    "date": "2025-10-26",
+    "impressions": 1313,
+    "clicks": 40,
+    "cost": 40.02,
+    "conversions": 2
+  },
+  {
+    "campaign_id": "cmp_campaigne",
+    "campaign_name": "Campaign_E",
+    "date": "2025-10-26",
+    "impressions": 2340,
+    "clicks": 49,
+    "cost": 109.45,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignf",
+    "campaign_name": "Campaign_F",
+    "date": "2025-10-26",
+    "impressions": 1264,
+    "clicks": 17,
+    "cost": 50.64,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaigna",
+    "campaign_name": "Campaign_A",
+    "date": "2025-10-27",
+    "impressions": 1238,
+    "clicks": 37,
+    "cost": 50.58,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignb",
+    "campaign_name": "Campaign_B",
+    "date": "2025-10-27",
+    "impressions": 1199,
+    "clicks": 25,
+    "cost": 51.42,
+    "conversions": 2
+  },
+  {
+    "campaign_id": "cmp_campaignc",
+    "campaign_name": "Campaign_C",
+    "date": "2025-10-27",
+    "impressions": 2241,
+    "clicks": 23,
+    "cost": 39.57,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignd",
+    "campaign_name": "Campaign_D",
+    "date": "2025-10-27",
+    "impressions": 1571,
+    "clicks": 39,
+    "cost": 126.56,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaigne",
+    "campaign_name": "Campaign_E",
+    "date": "2025-10-27",
+    "impressions": 2764,
+    "clicks": 37,
+    "cost": 50.76,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignf",
+    "campaign_name": "Campaign_F",
+    "date": "2025-10-27",
+    "impressions": 362,
+    "clicks": 13,
+    "cost": 19.46,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaigna",
+    "campaign_name": "Campaign_A",
+    "date": "2025-10-28",
+    "impressions": 2997,
+    "clicks": 86,
+    "cost": 82.66,
+    "conversions": 4
+  },
+  {
+    "campaign_id": "cmp_campaignb",
+    "campaign_name": "Campaign_B",
+    "date": "2025-10-28",
+    "impressions": 1775,
+    "clicks": 41,
+    "cost": 113.53,
+    "conversions": 4
+  },
+  {
+    "campaign_id": "cmp_campaignc",
+    "campaign_name": "Campaign_C",
+    "date": "2025-10-28",
+    "impressions": 2290,
+    "clicks": 63,
+    "cost": 57.25,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignd",
+    "campaign_name": "Campaign_D",
+    "date": "2025-10-28",
+    "impressions": 459,
+    "clicks": 14,
+    "cost": 20.81,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaigne",
+    "campaign_name": "Campaign_E",
+    "date": "2025-10-28",
+    "impressions": 786,
+    "clicks": 16,
+    "cost": 39.16,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignf",
+    "campaign_name": "Campaign_F",
+    "date": "2025-10-28",
+    "impressions": 1878,
+    "clicks": 35,
+    "cost": 119.44,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaigna",
+    "campaign_name": "Campaign_A",
+    "date": "2025-10-29",
+    "impressions": 1665,
+    "clicks": 51,
+    "cost": 66.93,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignb",
+    "campaign_name": "Campaign_B",
+    "date": "2025-10-29",
+    "impressions": 740,
+    "clicks": 12,
+    "cost": 10.6,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignc",
+    "campaign_name": "Campaign_C",
+    "date": "2025-10-29",
+    "impressions": 2568,
+    "clicks": 67,
+    "cost": 173.37,
+    "conversions": 2
+  },
+  {
+    "campaign_id": "cmp_campaignd",
+    "campaign_name": "Campaign_D",
+    "date": "2025-10-29",
+    "impressions": 1365,
+    "clicks": 13,
+    "cost": 23.08,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaigne",
+    "campaign_name": "Campaign_E",
+    "date": "2025-10-29",
+    "impressions": 2611,
+    "clicks": 56,
+    "cost": 155.12,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "cmp_campaignf",
+    "campaign_name": "Campaign_F",
+    "date": "2025-10-29",
+    "impressions": 1997,
+    "clicks": 20,
+    "cost": 16.19,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaigna",
+    "campaign_name": "Campaign_A",
+    "date": "2025-10-30",
+    "impressions": 1965,
+    "clicks": 62,
+    "cost": 71.69,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignb",
+    "campaign_name": "Campaign_B",
+    "date": "2025-10-30",
+    "impressions": 1331,
+    "clicks": 47,
+    "cost": 105.74,
+    "conversions": 3
+  },
+  {
+    "campaign_id": "cmp_campaignc",
+    "campaign_name": "Campaign_C",
+    "date": "2025-10-30",
+    "impressions": 1342,
+    "clicks": 52,
+    "cost": 113.2,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "cmp_campaignd",
+    "campaign_name": "Campaign_D",
+    "date": "2025-10-30",
+    "impressions": 2616,
+    "clicks": 61,
+    "cost": 168.07,
+    "conversions": 3
+  },
+  {
+    "campaign_id": "cmp_campaigne",
+    "campaign_name": "Campaign_E",
+    "date": "2025-10-30",
+    "impressions": 2855,
+    "clicks": 139,
+    "cost": 198.69,
+    "conversions": 3
+  },
+  {
+    "campaign_id": "cmp_campaignf",
+    "campaign_name": "Campaign_F",
+    "date": "2025-10-30",
+    "impressions": 732,
+    "clicks": 14,
+    "cost": 42.94,
+    "conversions": 1
+  }
+]
