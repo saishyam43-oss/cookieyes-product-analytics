@@ -57,7 +57,6 @@ This analysis translates 5 months of historical event telemetry, subscription bi
 
 While CookieYes maintains a healthy overall activation rate (~68.5% of signups eventually get a live banner), the journey is not frictionless. I built a cohort-based funnel to identify the exact moments of drop-off.
 
-* **The Easy Win (97.28%):** Users smoothly transition from sign-up to the automated website scan.
 * **The Critical Cliff (80.09%):** The largest bottleneck is the transition from signing up to actually installing the script on their website. Nearly **20% of users fail at this first technical hurdle**.
 * **The Hypothesis Buster:** I initially hypothesized that the native WordPress Plugin would activate much higher than the manual Web App. The data proved this wrong: **Web App (68.43%)** and **WordPress (68.52%)** have identical activation rates. Web App users are likely developers who easily navigate the technical friction.
 
@@ -76,7 +75,7 @@ CookieYes boasts a world-class Trial-to-Paid conversion rate of **33.81%**. Howe
 
 While the "Scan-to-Buy" behavior drives excellent short-term conversion, it creates severe long-term financial instability. 
 
-* **The Churn Reality:** I identified **716 users** who paid for a subscription but never successfully installed the banner. Because they use CookieYes as a one-time "audit tool" rather than an ongoing consent platform, they churn immediately.
+* **The Churn Reality:** I identified **~242 users** who paid for a subscription but never successfully installed the banner. Because they use CookieYes as a one-time "audit tool" rather than an ongoing consent platform, they churn immediately.
 * **The Revenue Impact:** Overall churn sits at a dangerously high **20.4%**. This actively neutralized the massive acquisition boom in August, causing MRR to actively shrink in September and October despite consistent marketing spend. 
 
 ### 4. Acquisition Quality & Marketing Efficiency
@@ -149,6 +148,8 @@ To ensure data integrity and align with SaaS business standards, the following a
 1. **Missing Billing Dates:** Several rows had `"NaT"` string values for `billing_cycle_start_date`. Upon investigation, this field correlated 100% with `plan_start_date` for first-time invoices. I assumed this was a logging delay and imputed the missing values using the plan start date.
 2. **Missing Attribution:** 349 users in the subscriptions dataset had a missing `utm_source`. I assumed these were organic/direct navigational searches and imputed them as `direct` to preserve the user cohorts.
 3. **Chronology vs. Milestone:** Because users can auto-activate via the WordPress plugin without manually triggering the Web App script event, I assumed a chronological-agnostic funnel (using `aggfunc='min'` in pandas) was the most accurate way to measure true milestone completion.
+4. **Marketing Attribution:** CAC and ROAS calculations assume a last-touch attribution model based on the `utm_campaign` captured at sign-up.
+5. **Currency Exchange Rates:** I applied flat, approximate exchange rates (EUR 1.10, GBP 1.30, INR 0.012) uniformly across the 5-month window rather than historical daily rates to simplify the scope of the ROAS calculation.
 
 ---
 
