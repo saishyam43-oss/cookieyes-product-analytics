@@ -134,6 +134,23 @@ Every campaign is profitable, but the efficiency variance is massive.
 
 ---
 
+### 📊 Key Assumptions & Metric Definitions
+
+To ensure data integrity and align with SaaS business standards, the following assumptions and definitions were applied:
+
+**Metric Definitions:**
+* **Monthly Recurring Revenue (MRR):** Calculated strictly as `Net Revenue` (Gross USD Amount minus Tax USD Amount). Including tax inflates MRR and misrepresents actual company earnings.
+* **Return on Ad Spend (ROAS):** `(Net Revenue / Total Ad Spend) * 100`. 
+* **Churn Rate:** `(Cancelled Subscriptions / Total Paid Users) * 100` within the 5-month analytical window.
+* **Activation Rate:** The percentage of unique users who successfully triggered the `did_banner_activated` event out of the total users who triggered `did_sign_up`.
+
+**Key Data Assumptions:**
+1. **Missing Billing Dates:** Several rows had `"NaT"` string values for `billing_cycle_start_date`. Upon investigation, this field correlated 100% with `plan_start_date` for first-time invoices. I assumed this was a logging delay and imputed the missing values using the plan start date.
+2. **Missing Attribution:** 349 users in the subscriptions dataset had a missing `utm_source`. I assumed these were organic/direct navigational searches and imputed them as `direct` to preserve the user cohorts.
+3. **Chronology vs. Milestone:** Because users can auto-activate via the WordPress plugin without manually triggering the Web App script event, I assumed a chronological-agnostic funnel (using `aggfunc='min'` in pandas) was the most accurate way to measure true milestone completion.
+
+---
+
 ## ⚠️ Limitations
 
 * **Time Horizon:** The dataset covers a 5-month acquisition window. While sufficient for short-term churn analysis, a 12-month window would be required to accurately model true Lifetime Value (LTV) and annual renewal behavior.
